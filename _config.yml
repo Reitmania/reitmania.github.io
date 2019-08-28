@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stefan Reitmann"
+title                    : "reitmania.de"
 title_separator          : "-"
 name                     : &name "reitmania.de"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Stefan Reitmann"
   avatar           : "grumpyreiti.jpg"
-  bio              : "Research Fellow, TU Bergakademie Freiberg"
+  bio              : "Research Fellow<br>TU Bergakademie Freiberg"
   location         : "Dresden"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
