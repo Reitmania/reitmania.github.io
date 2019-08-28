@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am PhD candidate at the German Aerospace Center (DLR). In 2015 I received my diploma in Traffic Engineering at the Dresden University of Technology (TU Dresden) with focus on traffic sciences. In 2016 and 2017 I was part of the scientific exchange program of the German-Russian Interdisciplinary Science Center (G-RISC) and visited the State University St. Petersburg (SPbU). My research focus is on machine learning, especially for the usage of neural networks in prediction and classification. During my PhD phase I published in several traffic and informatics related journals and participated in international conferences. In addition to my PhD thesis I am student of Informatics at the University Hagen and game developer in a small game dev studio in Dresden.
 
-A data-driven personal website
+<a id="CV"></a>CV
 ======
 <table class="tg">
   <tr>
@@ -50,7 +50,7 @@ A data-driven personal website
   </tr>
 </table>
 
-Getting started
+Publications
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
