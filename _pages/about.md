@@ -13,8 +13,8 @@ I am PhD candidate at the German Aerospace Center (DLR). In 2015 I received my d
 ======
 <table class="tg">
   <tr>
-    <td class="tg-0lax">since 09/2019</th>
-    <td class="tg-0lax">Research Fellow at TU Bergakademie Freiberg, <a href="http://vr.tu-freiberg.de/">Chair of Virtual Reality &amp; Multimedia</a></th>
+    <td class="tg-0lax">since 09/2019</td>
+    <td class="tg-0lax">Research Fellow at TU Bergakademie Freiberg, <a href="http://vr.tu-freiberg.de/">Chair of Virtual Reality &amp; Multimedia</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">09/2015 - 08/2019<br></td>
