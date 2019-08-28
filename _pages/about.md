@@ -11,7 +11,7 @@ I am PhD candidate at the German Aerospace Center (DLR). In 2015 I received my d
 
 A data-driven personal website
 ======
-<table>
+<table class="tg">
   <tr>
     <th class="tg-0lax">since 09/2019</th>
     <th class="tg-0lax">Research Fellow at TU Bergakademie Freiberg, Institute of Computer Science, Chair of Virtual Reality &amp; Multimedia</th>
@@ -19,6 +19,34 @@ A data-driven personal website
   <tr>
     <td class="tg-0lax">09/2015 - 08/2019<br></td>
     <td class="tg-0lax">PhD Student at German Aerospace Center (DLR) Braunschweig, Institute of Flight Guidance</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">06/2019</td>
+    <td class="tg-0lax">Best Paper Award in the Weather Track at USA/Europe ATM R&amp;D Seminar</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">07/2018</td>
+    <td class="tg-0lax">Best Conference Paper Award at International conference for Research in Air Transportation (ICRAT)</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">04/2017</td>
+    <td class="tg-0lax">Russian-German Young Scientist Award</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10/2016<br></td>
+    <td class="tg-0lax">Visiting Scientist at St. Petersburg State University, Faculty of Mathematics &amp; Mechanics</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">08/2015</td>
+    <td class="tg-0lax">Diploma Thesis "Development of a model for the creation of generic flight plans for airport clusters"<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">09/2013 - 04/2014</td>
+    <td class="tg-0lax">ERASMUS Exchange Student at Loughborough University</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2009 - 2015<br></td>
+    <td class="tg-0lax">Studies of Traffic Engineering at TU Dresden</td>
   </tr>
 </table>
 
