@@ -1,14 +1,6 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome!
+======
+I am PhD candidate at the German Aerospace Center (DLR). In 2015 I received my diploma in Traffic Engineering at the Dresden University of Technology (TU Dresden) with focus on traffic sciences. In 2016 and 2017 I was part of the scientific exchange program of the German-Russian Interdisciplinary Science Center (G-RISC) and visited the State University St. Petersburg (SPbU). My research focus is on machine learning, especially for the usage of neural networks in prediction and classification. During my PhD phase I published in several traffic and informatics related journals and participated in international conferences. In addition to my PhD thesis I am student of Informatics at the University Hagen and game developer in a small game dev studio in Dresden.
 
 A data-driven personal website
 ======
