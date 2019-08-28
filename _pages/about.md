@@ -13,8 +13,8 @@ A data-driven personal website
 ======
 <table class="tg">
   <tr>
-    <th class="tg-0lax">since 09/2019</th>
-    <th class="tg-0lax">Research Fellow at TU Bergakademie Freiberg, Institute of Computer Science, Chair of Virtual Reality &amp; Multimedia</th>
+    <td class="tg-0lax">since 09/2019</th>
+    <td class="tg-0lax">Research Fellow at TU Bergakademie Freiberg, <a href="http://vr.tu-freiberg.de/">Chair of Virtual Reality &amp; Multimedia</a></th>
   </tr>
   <tr>
     <td class="tg-0lax">09/2015 - 08/2019<br></td>
