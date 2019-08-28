@@ -18,19 +18,19 @@ I am PhD candidate at the German Aerospace Center (DLR). In 2015 I received my d
   </tr>
   <tr>
     <td class="tg-0lax">09/2015 - 08/2019<br></td>
-    <td class="tg-0lax">PhD Student at German Aerospace Center (DLR) Braunschweig, Institute of Flight Guidance</td>
+    <td class="tg-0lax">PhD Student at German Aerospace Center (DLR) Braunschweig, <a href="https://www.dlr.de/fl/">Institute of Flight Guidance</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">06/2019</td>
-    <td class="tg-0lax">Best Paper Award in the Weather Track at USA/Europe ATM R&amp;D Seminar</td>
+    <td class="tg-0lax">Best Paper Award in the Weather Track at <a href="http://www.atmseminarus.org/13th-seminar/">13th USA/Europe ATM R&amp;D Seminar</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">07/2018</td>
-    <td class="tg-0lax">Best Conference Paper Award at International conference for Research in Air Transportation (ICRAT)</td>
+    <td class="tg-0lax">Best Conference Paper Award at <a href="http://www.icrat.org/icrat/8th-international-conference/">8th International conference for Research in Air Transportation (ICRAT)</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">04/2017</td>
-    <td class="tg-0lax">Russian-German Young Scientist Award</td>
+    <td class="tg-0lax"><a href="https://www.g-risc.org/G-RISC-Award/index.html">Russian-German Young Scientist Award</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">10/2016<br></td>
