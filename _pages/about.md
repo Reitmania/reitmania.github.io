@@ -83,10 +83,10 @@ P. Bießlich u. a. “Developing Generic Flight Schedules for Airport Clusters�
 <a id="teaching"></a>Teaching
 ======
 I'm currently involved in the following courses:
-⋅⋅* Project Seminar Virtual Reality (geo data modeling in UE4)
+1. Project Seminar Virtual Reality (geo data modeling in UE4)
 
 From summer semester 2020 I will supervise the practical part of the courses:
-⋅⋅* Computer Graphics I
+1. Computer Graphics I
 
 <a id="portfolio"></a>Portfolio & Projects
 ======
