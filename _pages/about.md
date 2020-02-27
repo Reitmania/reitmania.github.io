@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am research fellow in Bernhard Jung's group at the TU Bergakademie Freiberg, Chair of Virtual Reality & Multimedia. My research focus is on data visualization and machine learning, especially for the usage of neural networks in prediction and classification of time series. During my PhD phase I published in several traffic and informatics related journals and participated in international conferences. In addition to my scientific work I am student of Informatics at the University Hagen and game developer in a small game dev studio in Dresden.
+I am research fellow in Bernhard Jung's group at the TU Bergakademie Freiberg, Chair of Virtual Reality & Multimedia. Currently, my research focus is on synthetic data and virtual sensors for lab-based preparation of ML applications for reality. For modeling and data generation I use Blender and own plugins, which I combine with ML algorithms like GANs and AE. During my PhD phase I worked on the prediction of complex time series in aviation, especially by LSTMs. 
+I published in several traffic and informatics related journals and participated in international conferences. In addition to my scientific work I am student of Informatics at the University Hagen and game developer in a small game dev studio in Dresden.
+
+I am always interested in new contacts for joint work in ML, Computer Vision and Visualization.
 
 <a id="CV"></a>CV
 ======
@@ -50,6 +53,21 @@ I am research fellow in Bernhard Jung's group at the TU Bergakademie Freiberg, C
   </tr>
 </table>
 
+<a id="teaching"></a>Teaching
+======
+I'm currently involved in the following courses:
+1. Project Seminar Virtual Reality (geo data modeling in UE4)
+
+From summer semester 2020 I will supervise the practical part of the courses:
+1. Computer Graphics I
+
+In the past I was involved in the following courses:
+1. Traffic Flow Science (guest lecture, machine learning in traffic sciences): Summer Term 2019
+1. Flight Guidance (practical part, introduction to a A320 flight simulator): Winter Terms 2011/2012
+
+<a id="portfolio"></a>Portfolio & Projects
+======
+
 <a id="publications"></a>Publications
 ======
 M. Schultz und S. Reitmann. “Consideration of Passenger Interactions for the Prediction of Aircraft Boarding Time”. In: Aerospace 5.4 (Sep. 2018), S. 101. DOI: 10 . 3390 / aerospace5040101. URL: https://www.mdpi.com/2226-4310/5/4/101.
@@ -80,18 +98,6 @@ S. Reitmann und K. Nachtigall. “Multivariate Time Series Prediction with Long 
 
 P. Bießlich u. a. “Developing Generic Flight Schedules for Airport Clusters”. In: Council of European Aerospace Societies (CEAS). Delft, Niederlande, 2015.
 
-<a id="teaching"></a>Teaching
-======
-I'm currently involved in the following courses:
-1. Project Seminar Virtual Reality (geo data modeling in UE4)
 
-From summer semester 2020 I will supervise the practical part of the courses:
-1. Computer Graphics I
 
-In the past I was involved in the following courses:
-1. Traffic Flow Science (guest lecture, machine learning in traffic sciences): Summer Term 2019
-1. Flight Guidance (practical part, introduction to a A320 flight simulator): Winter Terms 2011/2012
-
-<a id="portfolio"></a>Portfolio & Projects
-======
 
