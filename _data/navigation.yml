@@ -1,19 +1,22 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "Vita"
     url: /cv/
     
-  - title: "Publications"
-    url: /#publications
-
-  - title: "Talks"
-    url: /#talks    
-
-  - title: "Teaching"
-    url: /#teaching    
+  - title: "Research"
+    url: /research/
     
-  - title: "Portfolio"
-    url: /#portfolio
+  - title: "Teaching"
+    url: /teaching/ 
+    
+  - title: "Talks"
+    url: /talks/
+    
+  - title: "Publications"
+    url: /publications/   
+    
+  - title: "Other Projects"
+    url: /portfolio/
 
     
 
