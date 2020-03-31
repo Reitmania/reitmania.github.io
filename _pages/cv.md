@@ -46,6 +46,14 @@ redirect_from:
     <td class="tg-0lax">2009 - 2015<br></td>
     <td class="tg-0lax">Studies of Traffic Engineering at TU Dresden</td>
   </tr>
+  <tr>
+    <td class="tg-0lax">2007<br></td>
+    <td class="tg-0lax">Abitur at Gymnasium Dresden-Cotta</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1988<br></td>
+    <td class="tg-0lax">born, son of <a href="https://www.vreitmann.de">Prof. Dr. Volker Reitmann</a></td>
+  </tr>
 </table>
 <!--
 Education

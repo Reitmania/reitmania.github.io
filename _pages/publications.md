@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<a id="publications"></a>Publications
-======
 M. Schultz und S. Reitmann. “Consideration of Passenger Interactions for the Prediction of Aircraft Boarding Time”. In: Aerospace 5.4 (Sep. 2018), S. 101. DOI: 10 . 3390 / aerospace5040101. URL: https://www.mdpi.com/2226-4310/5/4/101.
 
 M. Schultz und S. Reitmann. “Machine learning approach to predict aircraft boarding”. In: Journal of Transportation Research Part C: Emerging Technologies (2018).
