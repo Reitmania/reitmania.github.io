@@ -14,8 +14,8 @@ I am always interested in new contacts for joint work in ML, Computer Vision and
 Contact
 ======
 
-TU Bergakademie Freiberg
-Bernhard-von-Cotta Straße 2
+TU Bergakademie Freiberg<br>
+Bernhard-von-Cotta Straße 2<br>
 Humboldtbau, Zimmer 110
 
 ☎ +49 3731 39 3019<br>
