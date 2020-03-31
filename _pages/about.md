@@ -15,7 +15,8 @@ Contact
 ======
 
 TU Bergakademie Freiberg<br>
-Bernhard-von-Cotta Straße 2<br>
+Bernhard-von-Cotta-Straße 2<br>
+09599 Freiberg<br>
 Humboldtbau, Zimmer 110
 
 ☎ +49 3731 39 3019<br>
