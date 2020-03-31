@@ -11,7 +11,7 @@ M. Schultz und S. Reitmann. “Machine learning approach to predict aircraft boa
 
 S. Reitmann und M. Schultz. “Computation of Air Traffic Flow Management Performance with Long Short-Term Memories Considering Weather Impact”. In: Artificial Neural Networks and Machine Learning – ICANN 2018. Bd. 11140. Lecture Notes in Computer Science. Springer, 2018, S. 532–541. ISBN: 978-3-030-01421-6. DOI: 10.1007/978-3-030-01421-6_51. URL: http://dx.doi.org/10.1007/978-3-030-01421-6_51.
 
-S. Reitmann und K. Nachtigall. “Applying Bidirectional Long Short-Term Memories (BLSTM) to Performance Data in Air Traffic Management for System Identification.” In: ICANN (2). Hrsg. von Alessandra Lintas u. a. Bd. 10614. Lecture Notes in Computer Science. Springer, 2017, S. 528–536. ISBN: 978-3-319-68612-7. URL: https://doi.org/10.1007/978-3-319-68612-7_60.
+S. Reitmann und K. Nachtigall. “Applying Bidirectional Long Short-Term Memories (BLSTM) to Performance Data in Air Traffic Management for System Identification” In: ICANN (2). Hrsg. von Alessandra Lintas u. a. Bd. 10614. Lecture Notes in Computer Science. Springer, 2017, S. 528–536. ISBN: 978-3-319-68612-7. URL: https://doi.org/10.1007/978-3-319-68612-7_60.
 
 ======
 {% if author.googlescholar %}

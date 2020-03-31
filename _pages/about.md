@@ -12,18 +12,13 @@ I published in several traffic and informatics related journals and participated
 
 I am always interested in new contacts for joint work in ML, Computer Vision and Visualization.
 
-<a id="teaching"></a>Teaching
-======
-I'm currently involved in the following courses:
-1. Project Seminar Virtual Reality (geo data modeling in UE4)
+Humboldtbau, Zimmer 110
 
-From summer semester 2020 I will supervise the follwing courses:
-1. Computer Graphics I (practical part)
-2. Working Group Game Development at TU Freiberg
+Telefon +49 3731 39 3019
+Fax +49 3731 39 2298
+Stefan.Reitmann@informatik.tu-freiberg.de
 
-In the past I was involved in the following courses:
-1. Traffic Flow Science (guest lecture, machine learning in traffic sciences): Summer Term 2019
-1. Flight Guidance (practical part, introduction to a A320 flight simulator): Winter Terms 2011/2012
+
 
 
 
