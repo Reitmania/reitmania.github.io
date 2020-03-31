@@ -23,6 +23,7 @@ S. Reitmann und K. Nachtigall. “Multivariate Time Series Prediction with Long 
 
 P. Bießlich u. a. “Developing Generic Flight Schedules for Airport Clusters”. In: Council of European Aerospace Societies (CEAS). Delft, Niederlande, 2015.
 
+<!--
 ======
 {% if site.talkmap_link == true %}
 
@@ -33,3 +34,4 @@ P. Bießlich u. a. “Developing Generic Flight Schedules for Airport Clusters�
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+-->
