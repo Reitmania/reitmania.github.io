@@ -3,7 +3,7 @@ title: "Computation of Air Traffic Flow Management Performance with Long Short-T
 collection: publications
 permalink: /publication/2018_ICANN
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2018-26-09
+date: 2018-09-26
 venue: 'ICANN 2018. Bd. 11140. Lecture Notes in Computer Science. Springer'
 paperurl: 'http://dx.doi.org/10.1007/978-3-030-01421-6_51'
 citation: 'S. Reitmann und M. Schultz. “Computation of Air Traffic Flow Management Performance with Long Short-Term Memories Considering Weather Impact”. In: Artificial Neural Networks and Machine Learning – ICANN 2018. Bd. 11140. Lecture Notes in Computer Science. Springer, 2018, S. 532–541. ISBN: 978-3-030-01421-6. DOI: 10.1007/978-3-030-01421-6_51.'
