@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
 <table class="tg">
   <tr>
     <td class="tg-0lax">since 09/2019</td>
@@ -48,7 +47,7 @@ redirect_from:
     <td class="tg-0lax">Studies of Traffic Engineering at TU Dresden</td>
   </tr>
 </table>
-
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -66,16 +65,9 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+-->
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -94,6 +86,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
