@@ -5,18 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I'm currently involved in the following courses:
-1. Project Seminar Virtual Reality (geo data modeling in UE4)
-
-From summer semester 2020 I will supervise the follwing courses:
-1. Computer Graphics I (practical part)
-2. Working Group Game Development at TU Freiberg
-
-In the past I was involved in the following courses:
-1. Traffic Flow Science (guest lecture, machine learning in traffic sciences): Summer Term 2019
-1. Flight Guidance (practical part, introduction to a A320 flight simulator): Winter Terms 2011/2012
-
-======
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
