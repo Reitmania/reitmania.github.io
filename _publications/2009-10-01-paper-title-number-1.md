@@ -6,5 +6,12 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2017-10-01
 venue: 'ICANN (2). Hrsg. von Alessandra Lintas u. a. Bd. 10614. Lecture Notes in Computer Science. Springer'
 paperurl: 'https://doi.org/10.1007/978-3-319-68612-7_60'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'S. Reitmann und K. Nachtigall. “Applying Bidirectional Long Short-Term Memories (BLSTM) to Performance Data in Air Traffic Management for System Identification” In: ICANN (2). Hrsg. von Alessandra Lintas u. a. Bd. 10614. Lecture Notes in Computer Science. Springer, 2017, S. 528–536. ISBN: 978-3-319-68612-7.'
 ---
+
+The performance analysis of complex systems like Air Traffic Management (ATM) is a challenging task. To overcome statistical complexities through analysing non-linear time series we approach the problem with machine learning methods. Therefore we understand ATM (and its identified system model) as a system of coupled and interdependent sub-systems working in time-continous processes, measurable
+through time-discrete time series.
+
+In this paper we discuss the requirements of a system identification process and the attached statistical analysis of ATM emitted performance
+data based on discussed benchmarking frameworks. The superior aim is to show, that neural networks are able to handle complex non-linear
+time-series, to learn how to rebuild them considering multidimenional inputs and to store knowledge about the observation data set’s behavior.
