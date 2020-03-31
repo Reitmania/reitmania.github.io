@@ -44,6 +44,10 @@ Scholarships & Awards
     <td class="tg-0lax">Best Paper Award in the Weather Track at <a href="http://www.atmseminarus.org/13th-seminar/">13th USA/Europe ATM R&amp;D Seminar</a></td>
   </tr>
   <tr>
+    <td class="tg-0lax">11/2018<br></td>
+    <td class="tg-0lax">Visiting Scientist at TsAGI, IFAR Young Researchers Conference</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">07/2018</td>
     <td class="tg-0lax">Best Conference Paper Award at <a href="http://www.icrat.org/icrat/8th-international-conference/">8th International conference for Research in Air Transportation (ICRAT)</a></td>
   </tr>
@@ -52,7 +56,7 @@ Scholarships & Awards
     <td class="tg-0lax"><a href="https://www.g-risc.org/G-RISC-Award/index.html">Russian-German Young Scientist Award</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">10/2016<br></td>
+    <td class="tg-0lax">10/2016 & 10/2017<br></td>
     <td class="tg-0lax">Visiting Scientist at St. Petersburg State University, Faculty of Mathematics &amp; Mechanics</td>
   </tr>
   <tr>
