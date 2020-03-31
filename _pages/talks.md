@@ -4,7 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-
+<!--
 S. Reitmann und M. Schultz. “Real-Time Prediction of Aircraft Boarding”. In: Digital Avionics Systems Conference (DASC). London, UK, 2018.
 
 S. Reitmann und M. Schultz. “Recurrent Neural Network based Aircraft Boarding Prediction”. In: Air Transport Research Society (ATRS). Seoul, Süd Korea, 2018.
@@ -23,8 +23,9 @@ S. Reitmann und K. Nachtigall. “Multivariate Time Series Prediction with Long 
 
 P. Bießlich u. a. “Developing Generic Flight Schedules for Airport Clusters”. In: Council of European Aerospace Societies (CEAS). Delft, Niederlande, 2015.
 
-<!--
+
 ======
+-->
 {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
@@ -34,4 +35,3 @@ P. Bießlich u. a. “Developing Generic Flight Schedules for Airport Clusters�
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
--->
