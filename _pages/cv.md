@@ -19,6 +19,27 @@ redirect_from:
     <td class="tg-0lax">PhD Student at German Aerospace Center (DLR) Braunschweig, <a href="https://www.dlr.de/fl/">Institute of Flight Guidance</a></td>
   </tr>
   <tr>
+    <td class="tg-0lax">08/2015</td>
+    <td class="tg-0lax">Diploma Thesis "Development of a model for the creation of generic flight plans for airport clusters"<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2009 - 2015<br></td>
+    <td class="tg-0lax">Studies of Traffic Engineering at TU Dresden</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2007<br></td>
+    <td class="tg-0lax">Abitur at Gymnasium Dresden-Cotta</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1988<br></td>
+    <td class="tg-0lax">born, son of <a href="https://www.vreitmann.de">Prof. Dr. Volker Reitmann</a></td>
+  </tr>
+</table>
+
+Scholarships & Awards
+======
+<table class="tg">
+  <tr>
     <td class="tg-0lax">06/2019</td>
     <td class="tg-0lax">Best Paper Award in the Weather Track at <a href="http://www.atmseminarus.org/13th-seminar/">13th USA/Europe ATM R&amp;D Seminar</a></td>
   </tr>
@@ -35,33 +56,13 @@ redirect_from:
     <td class="tg-0lax">Visiting Scientist at St. Petersburg State University, Faculty of Mathematics &amp; Mechanics</td>
   </tr>
   <tr>
-    <td class="tg-0lax">08/2015</td>
-    <td class="tg-0lax">Diploma Thesis "Development of a model for the creation of generic flight plans for airport clusters"<br></td>
-  </tr>
-  <tr>
     <td class="tg-0lax">09/2013 - 04/2014</td>
     <td class="tg-0lax">ERASMUS Exchange Student at Loughborough University</td>
   </tr>
-  <tr>
-    <td class="tg-0lax">2009 - 2015<br></td>
-    <td class="tg-0lax">Studies of Traffic Engineering at TU Dresden</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2007<br></td>
-    <td class="tg-0lax">Abitur at Gymnasium Dresden-Cotta</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">1988<br></td>
-    <td class="tg-0lax">born, son of <a href="https://www.vreitmann.de">Prof. Dr. Volker Reitmann</a></td>
-  </tr>
 </table>
-<!--
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
+
+<!--
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -87,10 +88,10 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+  <!--
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  -->
