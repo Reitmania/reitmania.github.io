@@ -12,47 +12,6 @@ I published in several traffic and informatics related journals and participated
 
 I am always interested in new contacts for joint work in ML, Computer Vision and Visualization.
 
-<a id="CV"></a>CV
-======
-<table class="tg">
-  <tr>
-    <td class="tg-0lax">since 09/2019</td>
-    <td class="tg-0lax">Research Fellow at TU Bergakademie Freiberg, <a href="http://vr.tu-freiberg.de/">Chair of Virtual Reality &amp; Multimedia</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">09/2015 - 08/2019<br></td>
-    <td class="tg-0lax">PhD Student at German Aerospace Center (DLR) Braunschweig, <a href="https://www.dlr.de/fl/">Institute of Flight Guidance</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">06/2019</td>
-    <td class="tg-0lax">Best Paper Award in the Weather Track at <a href="http://www.atmseminarus.org/13th-seminar/">13th USA/Europe ATM R&amp;D Seminar</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">07/2018</td>
-    <td class="tg-0lax">Best Conference Paper Award at <a href="http://www.icrat.org/icrat/8th-international-conference/">8th International conference for Research in Air Transportation (ICRAT)</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">04/2017</td>
-    <td class="tg-0lax"><a href="https://www.g-risc.org/G-RISC-Award/index.html">Russian-German Young Scientist Award</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">10/2016<br></td>
-    <td class="tg-0lax">Visiting Scientist at St. Petersburg State University, Faculty of Mathematics &amp; Mechanics</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">08/2015</td>
-    <td class="tg-0lax">Diploma Thesis "Development of a model for the creation of generic flight plans for airport clusters"<br></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">09/2013 - 04/2014</td>
-    <td class="tg-0lax">ERASMUS Exchange Student at Loughborough University</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2009 - 2015<br></td>
-    <td class="tg-0lax">Studies of Traffic Engineering at TU Dresden</td>
-  </tr>
-</table>
-
 <a id="teaching"></a>Teaching
 ======
 I'm currently involved in the following courses:
