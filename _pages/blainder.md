@@ -8,7 +8,7 @@ author_profile: true
 My overall goal is that we can use Blender as a synthetic data generator for various ML and robotics applications (in my head this is called **BlAInder**). 
 
 <div style="text-align:center">
-![alt text](../images/blainder_sw.png "BlAInder Logo")
+<img src="../images/blainder_sw.png")>
 </div>
 
 Due to ML some specific things (labeling & data formats) have to be considered. In order to use Blender for this, different sensors are needed. For the current research in our company these are above all:
