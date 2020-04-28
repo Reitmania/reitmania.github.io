@@ -20,16 +20,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-## Point Clouds
-
-
-## BlAInder
-
-
-## Time Series
-
-
 <!--
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
