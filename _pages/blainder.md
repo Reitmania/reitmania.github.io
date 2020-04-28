@@ -7,12 +7,7 @@ author_profile: true
 
 My overall goal is that we can use Blender as a synthetic data generator for various ML and robotics applications (in my head this is called **BlAInder**). 
 
-![alt text](../images/blainder1.png "Logo Title Text 1")
-
-![alt text](../images/blainder2.png "Logo Title Text 1")
-
-![alt text](../images/blainder3.png "Logo Title Text 1")
-
+![alt text](../images/blainder2.png "BlAInder Logo")
 
 Due to ML some specific things (labeling & data formats) have to be considered. In order to use Blender for this, different sensors are needed. For the current research in our company these are above all:
 
@@ -28,3 +23,9 @@ Physically it becomes interesting for certain diffuse (black, white) and (semi)t
 The quality of the scene depends on the sensor. For point clouds and depth images, meshes made of critical materials, such as glass, are mostly sufficient. For real image analysis the rendering would have to be of higher quality, but that would not be part of the MA. If the images were added, colored primitives against white background would be sufficient or something like that. 
 
 The programming goal is a plugin for Blender. The similar project Blensor added all the Ray methods in C++ via patch and then implemented a Python plugin for UI and programming. Something similar is in my mind. This is performant and accessible. Blensor is outdated and has only limited functionality, but it is a good basis. 
+
+# Data Export
+
+The simulated data must be saved for later use. In addition to the point data itself, information about the objects through which the respective point was created is also necessary. Also the color of the original object at the point of intersection with the emitted beam as well as the distance to the sensor should be included for later visualization. Various file formats are provided for this purpose.
+
+A common format for machine learning applications is the "Hierarchical Data Format" (short: HDF). The advantages are the management of heterogeneous data, the self-describing structure of the data format including additional metadata, the platform independence as well as the support and extension by numerous software projects. For example, "h5py" is a library for using the file format in Python. Furthermore the support of the LAS format is planned. This format was developed by the "American Society for Photogrammetry and Remote Sensing", is designed for the storage of three-dimensional tuples and is a common format for storing lidar point clouds. Among other things, it can be used to create three-dimensional visualizations with the help of the program "Potree". A connection to Python is provided by the library "laspy". The third desired format for export is a simple text format. In this format the tuples of coordinates and additional information can be stored line by line.
