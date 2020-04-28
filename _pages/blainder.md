@@ -7,7 +7,7 @@ author_profile: true
 
 My overall goal is that we can use Blender as a data generator for various ML and robotics applications (in my head this is called **BlAInder**). 
 
-![alt text](images/blainder_sw.png "BlAInder Logo")
+![alt text](../images/blainder_sw.png "BlAInder Logo")
 
 
 Due to ML some specific things (labeling & data formats) have to be considered. In order to use Blender for this, different sensors are needed. For the current research in our company these are above all:
