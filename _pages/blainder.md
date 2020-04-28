@@ -5,7 +5,7 @@ permalink: /blainder/
 author_profile: true
 ---
 
-My overall goal is that we can use Blender as a data generator for various ML and robotics applications (in my head this is called **BlAInder**). 
+My overall goal is that we can use Blender as a synthetic data generator for various ML and robotics applications (in my head this is called **BlAInder**). 
 
 <div style="text-align:center">
 ![alt text](../images/blainder_sw.png "BlAInder Logo")
