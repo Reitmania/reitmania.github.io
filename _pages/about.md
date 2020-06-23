@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am research fellow in Bernhard Jung's group at the TU Bergakademie Freiberg, Chair of Virtual Reality & Multimedia. Currently, my research focus is on synthetic data and virtual sensors for lab-based preparation of ML applications for reality. 
 
-I am always interested in new contacts for joint work in ML, Computer Vision and Visualization.
+I am always interested in new contacts for joint work in Machine Learning, Computer Vision and Visualization.
 
 Contact
 ======
