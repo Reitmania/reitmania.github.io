@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+> I always offer theses in the following subject areas: Machine learning applications in time series forecasting or computer visionUnreal Engine / Unity / Blender / Godot development
+
 ## Upcoming courses:
 * WS 2020/2021: Informatik 3, undergraduate course, [Schülerrechenzentrum Dresden](https://www.srz.tu-dresden.de/index.php?id=504)
 
@@ -18,9 +20,7 @@ author_profile: true
 * Generation of 3D training data for AI applications by simulation of ranging methods in virtual environments (Master Thesis, Freiberg University of Mining & Technology)
 * Deep Learning for Online Defect Detection in a Ceramic Tape Casting Process (Bachelor Thesis, Freiberg University of Mining & Technology, Fraunhofer)
 
-## Focus of possible theses:
-> Machine learning applications in time series forecasting or computer vision
-> Unreal Engine / Unity / Blender / Godot development
+
 
 
 <!-- 
