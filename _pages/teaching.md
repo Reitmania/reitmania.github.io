@@ -19,8 +19,8 @@ author_profile: true
 * Deep Learning for Online Defect Detection in a Ceramic Tape Casting Process (Bachelor Thesis, Freiberg University of Mining & Technology, Fraunhofer)
 
 ## Focus of possible theses:
-* Machine learning applications in time series forecasting or computer vision
-* Unreal Engine / Unity / Blender / Godot development
+> Machine learning applications in time series forecasting or computer vision
+> Unreal Engine / Unity / Blender / Godot development
 
 
 <!-- 
