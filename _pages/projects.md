@@ -9,7 +9,7 @@ author_profile: true
 
 In 2018 I was co-founder of an indie game dev studio in Brunswick named Bonfire Interactive. 
 
-![alt text](../images/logo_bonfire.png "Bonfire Logo")
+![alt text](../images/logo_bonfire.png "Bonfire Logo"){:height="50%" width="50%"}
 
 Bonfire was officially founded by Alexander Gillissen and me in 2018, but work on our game **Pale Blue Dot** already started in 2016. We are gamers from heart and have been since our youth and now we live our early dream of developing our own game. To support development we are looking for freelancing contributors or employees which will help to make Pale Blue Dot happen. 
 
