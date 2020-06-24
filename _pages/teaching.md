@@ -17,8 +17,11 @@ author_profile: true
 * WS 2012/2013: Flight Guidance (practical part), graduate course, TU Dresden, Institute of Logistics and Aviation
 
 ## List of supervised theses:
-* Generation of 3D training data for AI applications by simulation of ranging methods in virtual environments (Master Thesis, Freiberg University of Mining & Technology)
-* Deep Learning for Online Defect Detection in a Ceramic Tape Casting Process (Bachelor Thesis, Freiberg University of Mining & Technology, Fraunhofer)
+* Generation of 3D training data for AI applications by simulation of ranging methods in virtual environments (Master thesis, Freiberg University of Mining & Technology, 2020)
+* Deep Learning for Online Defect Detection in a Ceramic Tape Casting Process (Master thesis, Freiberg University of Mining & Technology, Fraunhofer Institute for Ceramic Technologies and Systems IKTS, 2020)
+* A Blender Add-on for Generation of Omnidirectional Camera Images in Virtual Worlds (Bachelor thesis, Freiberg University of Mining & Technology, 2020)
+* Analyse des Einflusses der Sichtweite auf def. Leistungsindikatoren in relevanten (Teil-) Prozessen am Beispiel eines Arrivals (Diplom thesis, Dresden University of Technology, Chair of Traffic Flow Sciences, 2018)
+
 
 
 
