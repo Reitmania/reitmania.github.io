@@ -7,6 +7,14 @@ redirect_from:
   - /resume
 ---
 
+| since 09/2019     | Research Fellow at TU Bergakademie Freiberg, Chair of Virtual Reality & Multimedia                    |
+|-------------------|-------------------------------------------------------------------------------------------------------|
+| 09/2015 - 08/2019 | PhD Student at German Aerospace Center (DLR) Braunschweig, Institute of Flight Guidance               |
+| 08/2015           | Diploma Thesis "Development of a model for the creation of generic flight plans for airport clusters" |
+| 2009 - 2015       | Studies of Traffic Engineering at TU Dresden                                                          |
+| 2007              | Abitur at Gymnasium Dresden-Cotta                                                                     |
+| 1988              | born, son of Prof. Dr. Volker Reitmann                                                                |
+
 {% include base_path %}
 
 <table class="tg">
