@@ -13,7 +13,7 @@ S. Reitmann und M. Schultz. “Computation of Air Traffic Flow Management Perfor
 
 S. Reitmann und K. Nachtigall. “Applying Bidirectional Long Short-Term Memories (BLSTM) to Performance Data in Air Traffic Management for System Identification” In: ICANN (2). Hrsg. von Alessandra Lintas u. a. Bd. 10614. Lecture Notes in Computer Science. Springer, 2017, S. 528–536. ISBN: 978-3-319-68612-7. URL: <a href="https://doi.org/10.1007/978-3-319-68612-7_6">https://doi.org/10.1007/978-3-319-68612-7_60 </a>.
 
--->
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -23,4 +23,7 @@ S. Reitmann und K. Nachtigall. “Applying Bidirectional Long Short-Term Memorie
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+-->
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
