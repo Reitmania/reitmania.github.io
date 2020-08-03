@@ -20,6 +20,8 @@ For all sensors the sensor specs have to be considered as well as the physical l
 
 Physically it becomes interesting for certain diffuse (black, white) and (semi)transparent materials (especially glass). There are also error models for this. It is also important that the measurements in our projects are carried out in different ways. At [AIRGEMM](https://tu-freiberg.de/airgemm) we partly fly over a water body, partly measure from the robotic boat. There are certain error models and restrictions for both (see e.g. [https://www.neonscience.org/lidar-basics](https://www.neonscience.org/lidar-basics)).
 
+![alt text](../images/pcl_acamonda.png "Examplary output of virtual sonar sensor simulation with ground truth for segmentation.")
+
 The quality of the scene depends on the sensor. For point clouds and depth images, meshes made of critical materials, such as glass, are mostly sufficient. For real image analysis the rendering would have to be of higher quality, but that would not be part of the MA. If the images were added, colored primitives against white background would be sufficient or something like that. 
 
 The programming goal is a plugin for Blender. The similar project Blensor added all the Ray methods in C++ via patch and then implemented a Python plugin for UI and programming. Something similar is in my mind. This is performant and accessible. Blensor is outdated and has only limited functionality, but it is a good basis. 
