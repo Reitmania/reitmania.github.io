@@ -13,7 +13,7 @@ author_profile: true
 ## Current courses:
 * WS 2020/2021: Informatik 3, undergraduate course, [Schülerrechenzentrum Dresden](https://www.srz.tu-dresden.de/index.php?id=504)
 * WS 2020/2021: Project Seminar Virtual Reality, graduate course, TU Bergakademie Freiberg, Virtual Reality & Multimedia
-* WS 2020/2021: Angewandte VR und AR, graduate course, media project GmbH / Westsächsischen Hochschule Zwickau 
+* WS 2020/2021: Angewandte VR und AR, graduate course, media project GmbH / Westsächsische Hochschule Zwickau 
 
 ## Past courses:
 * SS 2020: 3D Computer Graphics I (practical part), graduate course, TU Bergakademie Freiberg, Virtual Reality & Multimedia
