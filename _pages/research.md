@@ -5,7 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-Currently, my research focus is on synthetic data and virtual sensors for lab-based preparation of ML applications for reality. For modeling and data generation I use Blender and own plugins, which I combine with ML algorithms like GANs and AE. In my doctoral thesis I dealt with the application of neural networks (MLP, RNN/LSTM, hybrids) in time series prediction in air traffic. Besides multidimensional modelling, I have been able to extract knowledge from neural networks by using genetic algorithms. 
+Currently, my research focus is on synthetic data and virtual sensors for lab-based preparation of ML applications for reality. For modeling and data generation I use Blender and own plugins, which I combine with ML algorithms like GANs and AE. In my doctoral thesis I dealt with the application of neural networks (MLP, RNN/LSTM, hybrids) in time series prediction in air traffic. Besides multidimensional modeling, I have been able to extract knowledge from neural networks by using genetic algorithms. 
+
+<center>
+<img src="../images/suz.png" alt="Mesh" width="250"/>
+<img src="../images/suz2.png" alt="Point Cloud" width="250"/>
+<img src="../images/suz3.png" alt="Labeled Point Cloud" width="250"/>
+</center>
 
 In my research I mainly code in Python and C++. For ML applications I use TensorFlow, sklearn, pytorch and YOLO. I regularly work with the game engines UE4 and Godot and use the software Blender to design and simulate virtual worlds. 
 

@@ -11,12 +11,6 @@ I am research fellow in Bernhard Jung's group at the TU Bergakademie Freiberg, C
 
 I am always interested in new contacts for joint work in machine learning, computer vision and VR / AR.
 
-<center>
-<img src="../images/suz.png" alt="Mesh" width="250"/>
-<img src="../images/suz2.png" alt="Point Cloud" width="250"/>
-<img src="../images/suz3.png" alt="Labeled Point Cloud" width="250"/>
-</center>
-
 Contact
 ======
 
