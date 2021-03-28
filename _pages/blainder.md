@@ -24,9 +24,11 @@ For all sensors the sensor specs have to be considered as well as the physical l
 
 Physically it becomes interesting for certain diffuse (black, white) and (semi)transparent materials (especially glass). There are also error models for this. It is also important that the measurements in our projects are carried out in different ways. At [AIRGEMM](https://tu-freiberg.de/airgemm) we partly fly over a water body, partly measure from the robotic boat. There are certain error models and restrictions for both (see e.g. [https://www.neonscience.org/lidar-basics](https://www.neonscience.org/lidar-basics)).
 
-<img src="../images/suz.png" alt="Mesh" width="250"/>
-<img src="../images/suz2.png" alt="Point Cloud" width="250"/>
-<img src="../images/suz3.png" alt="Labeled Point Cloud" width="250"/>
+<center>
+<img src="../images/output_file_frame_1_image_rendered.png" alt="Mesh" width="800"/>
+<img src="../images/part_segmentation_cloud_parts.png" alt="Point Cloud" width="800"/>
+<img src="../images/output_file_frame_1_image_segmented.png" alt="Labeled Point Cloud" width="800"/>
+</center>
 
 The quality of the scene depends on the sensor. For point clouds and depth images, meshes made of critical materials, such as glass, are mostly sufficient. For real image analysis the rendering would have to be of higher quality, but that would not be part of the MA. If the images were added, colored primitives against white background would be sufficient or something like that. 
 
