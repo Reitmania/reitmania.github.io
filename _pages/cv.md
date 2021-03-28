@@ -25,16 +25,20 @@ Apart from all this, I am an enthusiastic weightlifter, love the history and cul
 
 <table class="tg">
   <tr>
+    <td class="tg-0lax">10/2020</td>
+    <td class="tg-0lax">Defense of the doctoral thesis (mark: magna cum laude) "Artificial Neural Networks in Performance Based Airport Management"</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">since 09/2019</td>
     <td class="tg-0lax">Research Fellow at TU Bergakademie Freiberg, <a href="http://vr.tu-freiberg.de/">Chair of Virtual Reality &amp; Multimedia</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">09/2015 - 08/2019<br></td>
-    <td class="tg-0lax">PhD Student at German Aerospace Center (DLR) Braunschweig, <a href="https://www.dlr.de/fl/">Institute of Flight Guidance</a></td>
+    <td class="tg-0lax">PhD Student at German Aerospace Center (DLR) Brunswick, <a href="https://www.dlr.de/fl/">Institute of Flight Guidance</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">08/2015</td>
-    <td class="tg-0lax">Diploma Thesis "Development of a model for the creation of generic flight plans for airport clusters"<br></td>
+    <td class="tg-0lax">Diploma Thesis (mark: 1.4) "Development of a model for the creation of generic flight plans for airport clusters"<br></td>
   </tr>
   <tr>
     <td class="tg-0lax">2009 - 2015<br></td>
