@@ -5,7 +5,11 @@ permalink: /blainder/
 author_profile: true
 ---
 
-My overall research goal is that we can use Blender as a synthetic data generator for various machine learning and robotics applications (the project is called **BlAInder**). 
+> Reitmann, S.; Neumann, L.; Jung, B. BLAINDER—A Blender AI Add-On for Generation of Semantically Labeled Depth-Sensing Data. Sensors 2021, 21, 2144. [https://doi.org/10.3390/s21062144](https://doi.org/10.3390/s21062144) 
+
+> [https://github.com/ln-12/blainder-range-scanner](https://github.com/ln-12/blainder-range-scanner)
+
+One of my overall research goals was that we can use Blender as a synthetic data generator for various machine learning and robotics applications (the project is called **BlAInder**). 
 
 ![alt text](../images/blainder2.png "BlAInder Logo")
 
