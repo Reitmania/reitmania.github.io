@@ -20,6 +20,16 @@ author_profile: true
 
 * S. Reitmann und K. Nachtigall. “Applying Bidirectional Long Short-Term Memories (BLSTM) to Performance Data in Air Traffic Management for System Identification.” In: ICANN (2). Hrsg. von Alessandra Lintas u. a. Bd. 10614. Lecture Notes in Computer Science. Springer, 2017, S. 528–536. ISBN: 978-3-319-68612-7. URL: [https://doi.org/10.1007/978-3-319-68612-7_60](https://doi.org/10.1007/978-3-319-68612-7_60).
 
+## Theses:
+* Stefan Reitmann. “Künstliche neuronale Netze im leistungsbasierten Luftverkehrsmanagement”. Diss. TU Dresden, 2020. URL: [https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-729299](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-729299).
+
+* Stefan Reitmann. Entwicklung einer Methodik zur Erstellung generischer Flugpläne für Flughafencluster. 2015.
+
+* Stefan Reitmann. Entwicklung eines Modells zum Vergleich von Flugprofilen unter Berücksichtigung stochastischer Störgrößen. 2014.
+
+
+
+
 
 
 <!--
