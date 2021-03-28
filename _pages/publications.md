@@ -4,6 +4,24 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+## Journals:
+* Stefan Reitmann, Lorenzo Neumann und Bernhard Jung. “BLAINDER—A Blender AI Add-On for Generation of Semantically Labeled Depth-Sensing Data”. In: Sensors 21.6 (2021). ISSN: 1424-8220. DOI: 10 . 3390 /s21062144. URL: [https://www.mdpi.com/1424-8220/21/6/2144](https://www.mdpi.com/1424-8220/21/6/2144).
+
+* M. Schultz, Stefan Reitmann und Sameer Alam. “Predictive Classification and Understanding of Weather Impact on Airport Performance through Machine Learning”. In: Transportation Research Part C: Emerging Technologies (eingereicht 2020).
+
+* M. Schultz und S. Reitmann. “Machine learning approach to predict aircraft boarding”. In: Transportation Research Part C: Emerging Technologies 98 (Jan. 2019), S. 391–408. ISSN: 0968-090X. DOI: 10.1016/j.trc.2018.09.007. URL: [http://www.sciencedirect.com/science/article/pii/S0968090X18312580](http://www.sciencedirect.com/science/article/pii/S0968090X18312580).
+
+* M. Schultz und S. Reitmann. “Consideration of Passenger Interactions for the Prediction of Aircraft Boarding Time”. In: Aerospace 5.4 (Sep. 2018), S. 101. DOI: 10.3390/aerospace5040101. URL: [https://www.mdpi.com/2226-4310/5/4/101](https://www.mdpi.com/2226-4310/5/4/101]).
+
+
+## Conference Proceedings:
+* S. Reitmann und M. Schultz. “Computation of Air Traffic Flow Management Performance with Long Short-Term Memories Considering Weather Impact”. In: Artificial Neural Networks and Machine Learning – ICANN 2018. Bd. 11140. Lecture Notes in Computer Science. Springer, 2018, S. 532–541. ISBN: 978-3-030-01421-6. DOI: 10.1007/978-3-030-01421-6_51. URL: [http://dx.doi.org/10.1007/978-3-030-01421-6_51](http://dx.doi.org/10.1007/978-3-030-01421-6_51).
+
+* S. Reitmann und K. Nachtigall. “Applying Bidirectional Long Short-Term Memories (BLSTM) to Performance Data in Air Traffic Management for System Identification.” In: ICANN (2). Hrsg. von Alessandra Lintas u. a. Bd. 10614. Lecture Notes in Computer Science. Springer, 2017, S. 528–536. ISBN: 978-3-319-68612-7. URL: [https://doi.org/10.1007/978-3-319-68612-7_60](https://doi.org/10.1007/978-3-319-68612-7_60).
+
+
+
 <!--
 M. Schultz und S. Reitmann. “Consideration of Passenger Interactions for the Prediction of Aircraft Boarding Time”. In: Aerospace 5.4 (Sep. 2018), S. 101. DOI: 10 . 3390 / aerospace5040101. URL: <a href="https://www.mdpi.com/2226-4310/5/4/101">https://www.mdpi.com/2226-4310/5/4/101 </a>.
  
@@ -23,7 +41,8 @@ S. Reitmann und K. Nachtigall. “Applying Bidirectional Long Short-Term Memorie
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
--->
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
