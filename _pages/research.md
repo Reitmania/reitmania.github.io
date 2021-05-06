@@ -5,13 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-> My main research focus is on machine learning, computer vision, VR/AR and gaming. 
-
-Currently, my research focus is on synthetic data and virtual sensors for lab-based preparation of ML applications for reality. For modeling and data generation I use Blender and own plugins, which I combine with ML algorithms like GANs and AE. I mainly code in Python and C++. For ML applications I use TensorFlow, sklearn, pytorch and YOLO. I regularly work with the game engines UE4 and Godot and use the software Blender to design and simulate virtual worlds.
+> Currently, my research focus is on synthetic data and virtual sensors for lab-based preparation of ML applications for reality. For modeling and data generation I use Blender and own plugins, which I combine with ML algorithms like GANs and AE. I mainly code in Python and C++. For ML applications I use TensorFlow, sklearn, pytorch and YOLO. I regularly work with the game engines UE4 and Godot and use the software Blender to design and simulate virtual worlds.
 
 ## Machine learning in time series prediction
 
  In my doctoral thesis I dealt with the application of neural networks (MLP, RNN/LSTM, hybrids) in time series prediction in air traffic. Besides multidimensional modeling, I have been able to extract knowledge from neural networks by using genetic algorithms. 
+ 
+<center>
+<img src="../images/research/vATM1.png" alt="Mesh" width="300"/>
+<img src="../images/research/vATM2.png" alt="Point Cloud" width="300"/>
+</center>
 
 ## Machine learning in computer vision 
 
@@ -23,13 +26,13 @@ Currently, my research focus is on synthetic data and virtual sensors for lab-ba
 
 ## AI in virtual worlds 
 
+<center>
+<img src="../images/LA2020.png" alt="LA2020" width="250"/>
+</center>
+
+
 ## VR/AR
 
-
-
- 
-
-![alt text](../images/LA2020.png "Landesausstellung 2020, video trailer for robotics course")
 
 I published in several traffic and informatics related journals and participated in international conferences. In addition to my scientific work I am student of Informatics at the University Hagen and game developer in a small game dev studio in Dresden.
 
