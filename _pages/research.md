@@ -22,34 +22,28 @@ author_profile: true
 
 In my habilitation thesis I apply machine learning methods on complex geophysical data sets. Scientific and technical goals concern e.g. the development of AI-based prediction methods for the detection of disturbances and boundary layers. These predictions will form the basis for significantly more efficient simulations, e.g. for solving of inverse problems in the area of electromagnetic geophysics. Further work addresses e.g. automated data processing workflows to establish model-driven machine learning pipelines using heterogenous geological data repositories.
 
-You can find more information about our project AIRGEMM (*AI and Robotics for GeoEnvironmental Modeling and Monitoring*) [https://tu-freiberg.de/airgemm](here).
+You can find more information about our project AIRGEMM (*AI and Robotics for GeoEnvironmental Modeling and Monitoring*) [here](https://tu-freiberg.de/airgemm).
 
 <center>
-<figure>
     <img src="../images/suz.png" alt="Mesh" width="250"/>
-    <figcaption>3D mesh</figcaption>
-</figure>
-<figure>
-    <img src="../images/suz2.png" alt="Mesh" width="250"/>
-    <figcaption>Point cloud</figcaption>
-</figure>
-<figure>
-    <img src="../images/su3.png" alt="Mesh" width="250"/>
-    <figcaption>Labeled point cloud</figcaption>
-</figure>
+    <img src="../images/suz2.png" alt="Point cloud" width="250"/>
+    <img src="../images/suz3.png" alt="Labeled point cloud" width="250"/>
 </center>
 
 ## AI in virtual worlds 
+
+In order to train virtual agents in artificial worlds, I develop concepts to bring them into suitable environments and to transfer the AI trained there to the outside. For this purpose, the game engine **Godot** is used. Within my research I develop frameworks for Godot to create an interference engine for ANN. Furthermore, agents will be trained by reinforcement learning. I create the virtual environments with Blender and incorporate models of my colleagues, which provide a very realistic image with photogrammetry.
 
 <center>
 <img src="../images/LA2020.png" alt="LA2020" width="400"/>
 </center>
 
-
 ## VR/AR
 
+For a better understanding of the measurements of our robotic boat and their visualization, we are in the development of an AR application. Thereby, measured point clouds are to be displayed correctly from the edge of the bank at the target water body and registered into the environment. On the one hand, this involves a live view of a measurement run, and on the other hand, the display of an already measured set of points in their entirety. 
 
-I published in several traffic and informatics related journals and participated in international conferences. In addition to my scientific work I am student of Informatics at the University Hagen and game developer in a small game dev studio in Dresden.
+A Microsoft HoloLens 2 (HL2) is used as AR hardware, whereby this is to be used as a stand-alone solution, i.e. without an external computing unit. This concept allows mobile applications at the waters, but limits the display scope of the point clouds (according to empirical values, a maximum of 300,000 points). The application is implemented as a Unity application and uses the pcx-Point Cloud Importer [https://github.com/keijiro/Pcx](https://github.com/keijiro/Pcx) to display the point clouds. 
+
 
 
 <!--

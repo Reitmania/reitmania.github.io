@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+I published in several traffic and informatics related journals and participated in international conferences. 
+
 ## Journals:
 * Stefan Reitmann, Lorenzo Neumann und Bernhard Jung. “BLAINDER—A Blender AI Add-On for Generation of Semantically Labeled Depth-Sensing Data”. In: Sensors 21.6 (2021). ISSN: 1424-8220. DOI: 10 . 3390 /s21062144. URL: [https://www.mdpi.com/1424-8220/21/6/2144](https://www.mdpi.com/1424-8220/21/6/2144).
 
