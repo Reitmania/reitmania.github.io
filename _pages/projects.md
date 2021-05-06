@@ -5,12 +5,14 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Bonfire Interactive
+Next to my research I am interested in game development and some other fun projects. You can find some information about this here.
+
+## Bonfire Interactive
 
 Bonfire Interactive is my indie startup from Aachen and Dresden in Germany, which I founded with my friend Alex.
 
 <center>
-<img src="../images/logo_bonfire_plain.png" alt="Mesh" width="400"/>
+<img src="../images/logo_bonfire.png" alt="Mesh" width="400"/>
 </center>
 
 Bonfire was officially founded in 2018, but work on our game **Pale Blue Dot** already started in 2016. We are gamers from heart and have been since our youth and now we live our early dream of developing our own game. To support development we are looking for freelancing contributors or employees which will help to make Pale Blue Dot happen. 
