@@ -3,7 +3,6 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-toc: true
 ---
 
 > My main research focus is on machine learning, computer vision, VR/AR and gaming. 
@@ -21,6 +20,16 @@ In my research I mainly code in Python and C++. For ML applications I use Tensor
 ![alt text](../images/LA2020.png "Landesausstellung 2020, video trailer for robotics course")
 
 I published in several traffic and informatics related journals and participated in international conferences. In addition to my scientific work I am student of Informatics at the University Hagen and game developer in a small game dev studio in Dresden.
+
+<nbsp>
+
+{% include base_path %}
+
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
 
 <!--
 
