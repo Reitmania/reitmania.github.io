@@ -11,23 +11,38 @@ author_profile: true
 
  In my doctoral thesis I dealt with the application of neural networks (MLP, RNN/LSTM, hybrids) in time series prediction in air traffic. Besides multidimensional modeling, I have been able to extract knowledge from neural networks by using genetic algorithms. 
  
+ You can find my PhD thesis [here](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-729299).
+ 
 <center>
-<img src="../images/research/vATM1.png" alt="Mesh" width="300"/>
-<img src="../images/research/vATM2.png" alt="Point Cloud" width="300"/>
+<img src="../images/research/vATM1.png" alt="Mesh" width="400"/>
+<img src="../images/research/vATM2.png" alt="Point Cloud" width="400"/>
 </center>
 
 ## Machine learning in computer vision 
 
+In my habilitation thesis I apply machine learning methods on complex geophysical data sets. Scientific and technical goals concern e.g. the development of AI-based prediction methods for the detection of disturbances and boundary layers. These predictions will form the basis for significantly more efficient simulations, e.g. for solving of inverse problems in the area of electromagnetic geophysics. Further work addresses e.g. automated data processing workflows to establish model-driven machine learning pipelines using heterogenous geological data repositories.
+
+You can find more information about our project AIRGEMM (*AI and Robotics for GeoEnvironmental Modeling and Monitoring*) [https://tu-freiberg.de/airgemm](here).
+
 <center>
-<img src="../images/suz.png" alt="Mesh" width="250"/>
-<img src="../images/suz2.png" alt="Point Cloud" width="250"/>
-<img src="../images/suz3.png" alt="Labeled Point Cloud" width="250"/>
+<figure>
+    <img src="../images/suz.png" alt="Mesh" width="250"/>
+    <figcaption>3D mesh</figcaption>
+</figure>
+<figure>
+    <img src="../images/suz2.png" alt="Mesh" width="250"/>
+    <figcaption>Point cloud</figcaption>
+</figure>
+<figure>
+    <img src="../images/su3.png" alt="Mesh" width="250"/>
+    <figcaption>Labeled point cloud</figcaption>
+</figure>
 </center>
 
 ## AI in virtual worlds 
 
 <center>
-<img src="../images/LA2020.png" alt="LA2020" width="250"/>
+<img src="../images/LA2020.png" alt="LA2020" width="400"/>
 </center>
 
 
