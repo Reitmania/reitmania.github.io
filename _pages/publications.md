@@ -18,6 +18,8 @@ I published in several traffic and informatics related journals and participated
 
 
 ## Conference Proceedings:
+* S. Reitmann, E. V. Kudryashova, B. Jung und V. Reitmann. "Classification of Point Clouds with Neural Networks and Continuum-Type Memories". In: Artificial Intelligence Applications and Innovations - AIAI 2021. IFIP Advances in Information and Communication Technology, Band 627, Springer, 2021, S. 505-517. ISBN: 978-3-030-79150-6  DOI: 10.1007/978-3-030-79150-6_40. URL: [https://doi.org/10.1007/978-3-030-79150-6_40](https://doi.org/10.1007/978-3-030-79150-6_40)
+
 * S. Reitmann und M. Schultz. “Computation of Air Traffic Flow Management Performance with Long Short-Term Memories Considering Weather Impact”. In: Artificial Neural Networks and Machine Learning – ICANN 2018. Bd. 11140. Lecture Notes in Computer Science. Springer, 2018, S. 532–541. ISBN: 978-3-030-01421-6. DOI: 10.1007/978-3-030-01421-6_51. URL: [http://dx.doi.org/10.1007/978-3-030-01421-6_51](http://dx.doi.org/10.1007/978-3-030-01421-6_51).
 
 * S. Reitmann und K. Nachtigall. “Applying Bidirectional Long Short-Term Memories (BLSTM) to Performance Data in Air Traffic Management for System Identification.” In: ICANN (2). Hrsg. von Alessandra Lintas u. a. Bd. 10614. Lecture Notes in Computer Science. Springer, 2017, S. 528–536. ISBN: 978-3-319-68612-7. URL: [https://doi.org/10.1007/978-3-319-68612-7_60](https://doi.org/10.1007/978-3-319-68612-7_60).
