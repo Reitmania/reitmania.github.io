@@ -8,9 +8,12 @@ author_profile: true
 I published in several traffic and informatics related journals and participated in international conferences. 
 
 ## Journals:
-* Stefan Reitmann, Lorenzo Neumann und Bernhard Jung. “BLAINDER—A Blender AI Add-On for Generation of Semantically Labeled Depth-Sensing Data”. In: Sensors 21.6 (2021). ISSN: 1424-8220. DOI: 10 . 3390 /s21062144. URL: [https://www.mdpi.com/1424-8220/21/6/2144](https://www.mdpi.com/1424-8220/21/6/2144).
 
-* M. Schultz, Stefan Reitmann und Sameer Alam. “Predictive Classification and Understanding of Weather Impact on Airport Performance through Machine Learning”. In: Transportation Research Part C: Emerging Technologies (eingereicht 2020).
+* S. Reitmann, B. Jung, E. V. Kudryashova und V. Reitmann. "Observation Stability and Convergence for Neural-type Evolutionary Variational Inequalities". In: Differential Equations and Control Processes N.2 (2021). ISSN: 1817-2172. URL: [https://diffjournal.spbu.ru/pdf/21208-jdecp-reitmann.pdf](https://diffjournal.spbu.ru/pdf/21208-jdecp-reitmann.pdf)
+
+* S. Reitmann, L. Neumann und B. Jung. “BLAINDER—A Blender AI Add-On for Generation of Semantically Labeled Depth-Sensing Data”. In: Sensors 21.6 (2021). ISSN: 1424-8220. DOI: 10 . 3390 /s21062144. URL: [https://www.mdpi.com/1424-8220/21/6/2144](https://www.mdpi.com/1424-8220/21/6/2144).
+
+* M. Schultz, S. Reitmann und Sameer Alam. “Predictive Classification and Understanding of Weather Impact on Airport Performance through Machine Learning”. In: Transportation Research Part C: Emerging Technologies (eingereicht 2020).
 
 * M. Schultz und S. Reitmann. “Machine learning approach to predict aircraft boarding”. In: Transportation Research Part C: Emerging Technologies 98 (Jan. 2019), S. 391–408. ISSN: 0968-090X. DOI: 10.1016/j.trc.2018.09.007. URL: [http://www.sciencedirect.com/science/article/pii/S0968090X18312580](http://www.sciencedirect.com/science/article/pii/S0968090X18312580).
 
@@ -25,11 +28,11 @@ I published in several traffic and informatics related journals and participated
 * S. Reitmann und K. Nachtigall. “Applying Bidirectional Long Short-Term Memories (BLSTM) to Performance Data in Air Traffic Management for System Identification.” In: ICANN (2). Hrsg. von Alessandra Lintas u. a. Bd. 10614. Lecture Notes in Computer Science. Springer, 2017, S. 528–536. ISBN: 978-3-319-68612-7. URL: [https://doi.org/10.1007/978-3-319-68612-7_60](https://doi.org/10.1007/978-3-319-68612-7_60).
 
 ## Theses:
-* Stefan Reitmann. “Künstliche neuronale Netze im leistungsbasierten Luftverkehrsmanagement”. Diss. TU Dresden, 2020. URL: [https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-729299](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-729299).
+* S. Reitmann. “Künstliche neuronale Netze im leistungsbasierten Luftverkehrsmanagement”. Diss. TU Dresden, 2020. URL: [https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-729299](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-729299).
 
-* Stefan Reitmann. Entwicklung einer Methodik zur Erstellung generischer Flugpläne für Flughafencluster. 2015.
+* S. Reitmann. Entwicklung einer Methodik zur Erstellung generischer Flugpläne für Flughafencluster. 2015.
 
-* Stefan Reitmann. Entwicklung eines Modells zum Vergleich von Flugprofilen unter Berücksichtigung stochastischer Störgrößen. 2014.
+* S. Reitmann. Entwicklung eines Modells zum Vergleich von Flugprofilen unter Berücksichtigung stochastischer Störgrößen. 2014.
 
 
 
