@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-I published in several traffic and informatics related journals and participated in international conferences. 
+I published in several computer and traffic science related journals and participated in international conferences.
 
 ## Journals:
 

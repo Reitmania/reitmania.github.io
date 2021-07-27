@@ -18,10 +18,9 @@ redirect_from:
 -->
 {% include base_path %}
 
+Already in my childhood I was fascinated by computer science and video games. During my school time I took several programming courses at the [Schülerrechenzentrum Dresden](https://www.srz.tu-dresden.de/index.php?id=504), where I am now active as a course supervisor in computer science. My studies then led me first into the field of transport sciences, which fascinated me with its many interdependencies and complex networks. Due to the lower proportion of computer science in my studies, I have been studying computer science at the Fernuni Hagen as a second degree course since 2015. At the same time I was given the opportunity to work in computer science at the TU Bergakademie Freiberg after my doctoral thesis. 
 
-Already in my childhood I was fascinated by computer science. During my school time I took several programming courses at the [Schülerrechenzentrum Dresden](https://www.srz.tu-dresden.de/index.php?id=504), where I am now active as a course supervisor in computer science. My studies then led me first into the field of transport sciences, which fascinated me with its many interdependencies and complex networks. Due to the low proportion of computer science in my studies, I have been studying computer science at the Fernuni Hagen as a second degree course since 2015. At the same time I was given the opportunity to work in computer science at the TU Bergakademie Freiberg after my doctoral thesis. 
-
-Apart from all this, I am an enthusiastic weightlifter, love the history and culture of hip hop and try myself in FL Studio or LMMS every now and then.
+Apart from all this, I am an enthusiastic sportsman, video games developer and try myself in FL Studio or LMMS every now and then.
 
 <table class="tg">
   <tr>
@@ -31,6 +30,10 @@ Apart from all this, I am an enthusiastic weightlifter, love the history and cul
   <tr>
     <td class="tg-0lax">since 09/2019</td>
     <td class="tg-0lax">Research Fellow at TU Bergakademie Freiberg, <a href="http://vr.tu-freiberg.de/">Chair of Virtual Reality &amp; Multimedia</a></td>
+  </tr>
+    <tr>
+    <td class="tg-0lax">since 09/2015<br></td>
+    <td class="tg-0lax">Studies of Computer Science at Fernuniversität Hagen (distance learning, part-time)</td>
   </tr>
   <tr>
     <td class="tg-0lax">09/2015 - 08/2019<br></td>
