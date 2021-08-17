@@ -61,6 +61,10 @@ Scholarships & Awards
 ======
 <table class="tg">
   <tr>
+    <td class="tg-0lax">08/2021</td>
+    <td class="tg-0lax">Best Paper Award at <a href="http://cpsc.spbstu.ru/">2nd International Conference on Cyber-Physical Systems and Control (CPS&C) 2021</a></td>
+  </tr>
+  <tr>
     <td class="tg-0lax">06/2019</td>
     <td class="tg-0lax">Best Paper Award in the Weather Track at <a href="http://www.atmseminarus.org/13th-seminar/">13th USA/Europe ATM R&amp;D Seminar</a></td>
   </tr>
