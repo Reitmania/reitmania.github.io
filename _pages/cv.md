@@ -22,6 +22,11 @@ Already in my childhood I was fascinated by computer science and video games. Du
 
 Apart from all this, I am an enthusiastic sportsman, video games developer and try myself in FL Studio or LMMS every now and then.
 
+I am member of the following organizations / societies:
+
+* Chaos Computer Club e. V. <a href="https://www.ccc.de/" target="_blank">(Website)</a>
+* Gesellschaft für Informatik e. V. <a href="https://gi.de/" target="_blank">(Website)</a>
+
 <table class="tg">
   <tr>
     <td class="tg-0lax">10/2020</td>
