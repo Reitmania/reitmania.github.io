@@ -20,8 +20,6 @@ redirect_from:
 
 Already in my childhood I was fascinated by computer science and video games. During my school time I took several programming courses at the [Schülerrechenzentrum Dresden](https://www.srz.tu-dresden.de/index.php?id=504), where I am now active as a course supervisor in computer science. My studies then led me first into the field of transport sciences, which fascinated me with its many interdependencies and complex networks. Due to the lower proportion of computer science in my studies, I have been studying computer science at the Fernuni Hagen as a second degree course since 2015. At the same time I was given the opportunity to work in computer science at the TU Bergakademie Freiberg after my doctoral thesis. 
 
-Apart from all this, I am an enthusiastic sportsman, video games developer and try myself in FL Studio or LMMS every now and then.
-
 <table class="tg">
   <tr>
     <td class="tg-0lax">10/2020</td>
@@ -57,9 +55,21 @@ Apart from all this, I am an enthusiastic sportsman, video games developer and t
   </tr>
 </table>
 
+Apart from all this, I am an enthusiastic sportsman, video games developer and try myself in FL Studio or LMMS every now and then.
+
+I am member of the following organizations / societies:
+
+* Chaos Computer Club e. V. <a href="https://www.ccc.de/" target="_blank">(Website)</a>
+* Gesellschaft für Informatik e. V. <a href="https://gi.de/" target="_blank">(Website)</a>
+
 Scholarships & Awards
 ======
 <table class="tg">
+    <tr>
+    <td class="tg-0lax">08/2021</td>
+    <td class="tg-0lax">Best Paper Award at <a href="http://cpsc.spbstu.ru/">2nd International Conference
+on Cyber-Physical Systems & Control</a></td>
+  </tr>
   <tr>
     <td class="tg-0lax">08/2021</td>
     <td class="tg-0lax">Best Paper Award at <a href="http://cpsc.spbstu.ru/">2nd International Conference on Cyber-Physical Systems and Control (CPS&C) 2021</a></td>
