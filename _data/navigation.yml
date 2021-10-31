@@ -1,19 +1,17 @@
 # main links links
-main:
-  - title: "Vita"
-    url: /cv/
-    
+main:    
   - title: "Research"
     url: /research/
-    
+ 
+  - title: "Publications"
+    url: /publications/  
+
   - title: "Teaching"
     url: /teaching/ 
     
   - title: "Talks"
-    url: /talks/
-    
-  - title: "Publications"
-    url: /publications/   
+    url: /talks/   
+ 
     
   - title: "BlAInder"
     url: /blainder/
@@ -23,6 +21,9 @@ main:
 
   - title: "Other Projects"
     url: /projects/
+
+  - title: "Vita"
+    url: /cv/
 
     
 
