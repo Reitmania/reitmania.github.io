@@ -107,9 +107,7 @@ Apart from all this, I am an enthusiastic sportsman, video games developer and t
 <img src="../images/logo_bonfire.png" alt="Mesh" width="400"/>
 </center>
 
-Bonfire was officially founded in 2018, but work on our game **Pale Blue Dot** already started in 2016. We are gamers from heart and have been since our youth and now we live our early dream of developing our own game. To support development we are looking for freelancing contributors or employees which will help to make Pale Blue Dot happen. 
-
-Pale Blue Dot is RTS game with low poly graphics, completelly basing on an open source pipeline (e. g. Blender, Godot, Gimp). 
+Bonfire was officially founded in 2018, but work on our game **Pale Blue Dot** already started in 2016. Pale Blue Dot is RTS game with low poly graphics, completelly basing on an open source pipeline (e. g. Blender, Godot, Gimp). To support the development we are looking for freelancing contributors or employees which will help to make Pale Blue Dot happen. 
 
 The game is funded by the [nordmedia – Film- und Mediengesellschaft Niedersachsen/Bremen mbH](https://www.nordmedia.de). 
 
