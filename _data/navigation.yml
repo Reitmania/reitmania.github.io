@@ -12,16 +12,6 @@ main:
   - title: "Talks"
     url: /talks/   
  
- <!---   
-  - title: "BlAInder"
-    url: /blainder/
-    
-  - title: "Blog"
-    url: /posts/
-
-  - title: "Other Projects"
-    url: /projects/
--->
   - title: "Vita"
     url: /cv/
 
