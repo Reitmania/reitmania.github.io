@@ -55,13 +55,6 @@ Already in my childhood I was fascinated by computer science and video games. Du
   </tr>
 </table>
 
-Apart from all this, I am an enthusiastic sportsman, video games developer and try myself in FL Studio or LMMS every now and then.
-
-I am member of the following organizations / societies:
-
-* Chaos Computer Club e. V. <a href="https://www.ccc.de/" target="_blank">(Website)</a>
-* Gesellschaft für Informatik e. V. <a href="https://gi.de/" target="_blank">(Website)</a>
-
 Scholarships & Awards
 ======
 <table class="tg">
@@ -99,6 +92,30 @@ on Cyber-Physical Systems & Control</a></td>
     <td class="tg-0lax">ERASMUS Exchange Student at Loughborough University</td>
   </tr>
 </table>
+
+Misc
+======
+
+I am member of the following organizations / societies:
+
+* Chaos Computer Club e. V. <a href="https://www.ccc.de/" target="_blank">(Website)</a>
+* Gesellschaft für Informatik e. V. <a href="https://gi.de/" target="_blank">(Website)</a>
+
+Apart from all this, I am an enthusiastic sportsman, video games developer and try myself in FL Studio or LMMS every now and then. I am part of Bonfire Interactive, an indie startup from Aachen and Dresden in Germany, which I founded with my friend Alex.
+
+<center>
+<img src="../images/logo_bonfire.png" alt="Mesh" width="400"/>
+</center>
+
+Bonfire was officially founded in 2018, but work on our game **Pale Blue Dot** already started in 2016. We are gamers from heart and have been since our youth and now we live our early dream of developing our own game. To support development we are looking for freelancing contributors or employees which will help to make Pale Blue Dot happen. 
+
+Pale Blue Dot is RTS game with low poly graphics, completelly basing on an open source pipeline (e. g. Blender, Godot, Gimp). 
+
+The game is funded by the [nordmedia – Film- und Mediengesellschaft Niedersachsen/Bremen mbH](https://www.nordmedia.de). 
+
+For more information visit the official [homepage](https://www.bonfire-Interactive.com).
+
+
 
 
 <!--
