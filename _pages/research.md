@@ -12,8 +12,8 @@ author_profile: true
 In order to train virtual agents (especially mobile roboters) in artificial worlds, I develop concepts to bring them into suitable environments and to transfer the AI trained there to the outside. For this purpose, several game engines (e. g. Unity) are used. Within my research I develop frameworks for these engines to create an interference engine for AI. Furthermore, agents will be trained by reinforcement and supervised learning. I create the virtual environments with Blender and incorporate models of my colleagues, which provide a very realistic image with photogrammetry.
 
 <center>
-    <img src="../images/research/elisim4.png" alt="Sim1" width="300"/>
-    <img src="../images/research/elisim2.png" alt="Sim2" width="300"/>
+    <img src="../images/research/elisim4.png" alt="Sim1" height="250"/>
+    <img src="../images/research/elisim2.png" alt="Sim2" height="250"/>
 </center>
 
 ## Machine learning in computer vision 
