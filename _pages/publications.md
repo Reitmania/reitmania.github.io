@@ -9,9 +9,11 @@ I published in several computer and traffic science related journals and partici
 
 ## Journals:
 
+* S. Reitmann, M. Schultz. "An Adaptive Framework for Optimization and Prediction of Air Traffic Management (Sub-)Systems with Machine Learning". In: Aerospace. 2022; 9(2):77. DOI: [10.3390/aerospace9020077](10.3390/aerospace9020077)
+
 * S. Reitmann, B. Jung, E. V. Kudryashova und V. Reitmann. "Observation Stability and Convergence for Neural-type Evolutionary Variational Inequalities". In: Differential Equations and Control Processes N.2 (2021). ISSN: 1817-2172. URL: [https://diffjournal.spbu.ru/pdf/21208-jdecp-reitmann.pdf](https://diffjournal.spbu.ru/pdf/21208-jdecp-reitmann.pdf)
 
-* S. Reitmann, L. Neumann und B. Jung. “BLAINDER—A Blender AI Add-On for Generation of Semantically Labeled Depth-Sensing Data”. In: Sensors 21.6 (2021). ISSN: 1424-8220. DOI: 10 . 3390 /s21062144. URL: [https://www.mdpi.com/1424-8220/21/6/2144](https://www.mdpi.com/1424-8220/21/6/2144).
+* S. Reitmann, L. Neumann und B. Jung. “BLAINDER—A Blender AI Add-On for Generation of Semantically Labeled Depth-Sensing Data”. In: Sensors 21.6 (2021). ISSN: 1424-8220. DOI: 10.3390/s21062144. URL: [https://www.mdpi.com/1424-8220/21/6/2144](https://www.mdpi.com/1424-8220/21/6/2144).
 
 * M. Schultz, S. Reitmann und Sameer Alam. “Predictive Classification and Understanding of Weather Impact on Airport Performance through Machine Learning”. In: Transportation Research Part C: Emerging Technologies (eingereicht 2020).
 
