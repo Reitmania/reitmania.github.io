@@ -9,7 +9,7 @@ I published in several computer and traffic science related journals and partici
 
 ## Journals:
 
-* S. Reitmann, M. Schultz. "An Adaptive Framework for Optimization and Prediction of Air Traffic Management (Sub-)Systems with Machine Learning". In: Aerospace. 2022; 9(2):77. DOI: [10.3390/aerospace9020077](10.3390/aerospace9020077)
+* S. Reitmann, M. Schultz. "An Adaptive Framework for Optimization and Prediction of Air Traffic Management (Sub-)Systems with Machine Learning". In: Aerospace. 2022; 9(2):77. DOI: 10.3390/aerospace9020077. URL: [https://www.mdpi.com/2226-4310/9/2/77](https://www.mdpi.com/2226-4310/9/2/77)
 
 * S. Reitmann, B. Jung, E. V. Kudryashova und V. Reitmann. "Observation Stability and Convergence for Neural-type Evolutionary Variational Inequalities". In: Differential Equations and Control Processes N.2 (2021). ISSN: 1817-2172. URL: [https://diffjournal.spbu.ru/pdf/21208-jdecp-reitmann.pdf](https://diffjournal.spbu.ru/pdf/21208-jdecp-reitmann.pdf)
 
