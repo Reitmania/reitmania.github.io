@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-> Currently, my research focus is on synthetic data and virtual sensors for lab-based preparation of ML applications for reality. For modeling and data generation I use Blender and own plugins, which I combine with ML algorithms like GANs and AE. I mainly code in Python and C++. For ML applications I use TensorFlow, sklearn, pytorch and YOLO. I regularly work with the game engines UE4 and Godot and use the software Blender to design and simulate virtual worlds.
+> Currently, my research focus is on synthetic data and virtual sensors for lab-based preparation of ML applications for reality. For modeling and data generation I use Blender and own plugins, which I combine with ML algorithms like GANs and AE. I mainly code in Python and C++. For ML applications I use TensorFlow, sklearn, pytorch and YOLO. I regularly work with the game engines UE4, Unity and Godot and use the software Blender to design and simulate virtual worlds.
 
 ## AI of mobile roboters in virtual worlds 
 
