@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 > I always offer theses in the following subject areas: machine learning applications in computer vision, Unreal Engine / Unity / Blender / Godot development, VR/AR applications
-> 
+ 
 ## Upcoming courses:
 * SS 2022: 3D Computer Graphics, graduate course, [Duale Hochschule Baden-Württemberg Mannheim](https://www.mannheim.dhbw.de/startseite), Fakultät Technik
 * SS 2022: Applied VR and AR, graduate course, [media project GmbH](https://mediaproject.de/) / Westsächsische Hochschule Zwickau 
