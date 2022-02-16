@@ -23,6 +23,11 @@ I published in several computer and traffic science related journals and partici
 
 
 ## Conference Proceedings:
+
+* F. Richter, S. Reitmann, B. Jung. "Integration of open geo data into virtual worlds". In: Proc. 6th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022). To appear.
+
+* S. Reitmann, B. Jung. "Generating Synthetic Labeled Data of Animated Fish Swarms in 3D Worlds with Particle Systems and Virtual Sound Wave Sensors". 2nd International Conference on Cyber-Physical Systems and Control, CPS&C’2021. To appear. (**Best Paper Award**)
+
 * S. Reitmann, E. V. Kudryashova, B. Jung und V. Reitmann. "Classification of Point Clouds with Neural Networks and Continuum-Type Memories". In: Artificial Intelligence Applications and Innovations - AIAI 2021. IFIP Advances in Information and Communication Technology, Band 627, Springer, 2021, S. 505-517. ISBN: 978-3-030-79150-6  DOI: 10.1007/978-3-030-79150-6_40. URL: [https://doi.org/10.1007/978-3-030-79150-6_40](https://doi.org/10.1007/978-3-030-79150-6_40)
 
 * S. Reitmann und M. Schultz. “Computation of Air Traffic Flow Management Performance with Long Short-Term Memories Considering Weather Impact”. In: Artificial Neural Networks and Machine Learning – ICANN 2018. Bd. 11140. Lecture Notes in Computer Science. Springer, 2018, S. 532–541. ISBN: 978-3-030-01421-6. DOI: 10.1007/978-3-030-01421-6_51. URL: [http://dx.doi.org/10.1007/978-3-030-01421-6_51](http://dx.doi.org/10.1007/978-3-030-01421-6_51).
