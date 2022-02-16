@@ -9,6 +9,8 @@ This is a list of my conference participations and other presentations, where I 
 
 ## Scientific Conferences:
 
+* S. Reitmann "An Adaptive Framework for Optimization and Prediction of Air Traffic Management (Sub-)Systems with Machine Learning ". In: Applied Machine Learning Days (AMLD). Lausanne, Schweiz, 2022 (invited talk).
+
 * S. Reitmann und B. Jung. "Generating synthetic labeled data of animated fish swarms in 3D worlds with particle systems and virtual sound wave sensors". In: 2nd International Conference on Cyber-Physical Systems & Control (CPSC). St. Petersburg, Russland, 2021.
 
 * S. Reitmann, E. V. Kudryashova, B. Jung und V. Reitmann. "Classification of Point Clouds with Neural Networks and
