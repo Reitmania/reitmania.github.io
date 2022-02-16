@@ -10,6 +10,7 @@ author_profile: true
 ## Upcoming courses:
 * SS 2022: 3D Computer Graphics, graduate course, [Duale Hochschule Baden-Württemberg Mannheim](https://www.mannheim.dhbw.de/startseite), Fakultät Technik
 * SS 2022: Applied VR and AR, graduate course, [media project GmbH](https://mediaproject.de/) / Westsächsische Hochschule Zwickau 
+* SS 2022: Game Design & Game Engines, undergraduate course, [HS Fresenius](https://www.hs-fresenius.de/)
 
 ## Current courses:
 * WS 2021/2022: Virtual Reality, graduate course, TU Bergakademie Freiberg, Virtual Reality & Multimedia
