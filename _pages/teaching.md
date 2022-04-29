@@ -7,15 +7,14 @@ author_profile: true
 
 > I always offer theses in the following subject areas: machine learning applications in computer vision, Unreal Engine / Unity / Blender / Godot development, VR/AR applications
  
-## Upcoming courses:
-* SS 2022: 3D Computer Graphics, graduate course, [Duale Hochschule Baden-Württemberg Mannheim](https://www.mannheim.dhbw.de/startseite), Fakultät Technik
+## Current courses:
 * SS 2022: Applied VR and AR, graduate course, [media project GmbH](https://mediaproject.de/) / Westsächsische Hochschule Zwickau 
 * SS 2022: Game Design & Game Engines, undergraduate course, [HS Fresenius](https://www.hs-fresenius.de/)
-
-## Current courses:
-* WS 2021/2022: Virtual Reality, graduate course, TU Bergakademie Freiberg, Virtual Reality & Multimedia
+* SS 2022: 3D Computer Graphics I (practical part), graduate course, TU Bergakademie Freiberg, Virtual Reality & Multimedia
 
 ## Past courses:
+* SS 2022: 3D Computer Graphics, graduate course, [Duale Hochschule Baden-Württemberg Mannheim](https://www.mannheim.dhbw.de/startseite), Fakultät Technik
+* WS 2021/2022: Virtual Reality, graduate course, TU Bergakademie Freiberg, Virtual Reality & Multimedia
 * SS 2021: 3D Computer Graphics, graduate course, [Duale Hochschule Baden-Württemberg Mannheim](https://www.mannheim.dhbw.de/startseite), Fakultät Technik
 * WS 2020/2021: Informatik 3, undergraduate course, [Schülerrechenzentrum Dresden](https://www.srz.tu-dresden.de/index.php?id=504)
 * WS 2020/2021: Project Seminar Virtual Reality, graduate course, TU Bergakademie Freiberg, Virtual Reality & Multimedia
