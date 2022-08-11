@@ -15,7 +15,7 @@ I published in several computer and traffic science related journals and partici
 
 * S. Reitmann, L. Neumann und B. Jung. “BLAINDER—A Blender AI Add-On for Generation of Semantically Labeled Depth-Sensing Data”. In: Sensors 21.6 (2021). ISSN: 1424-8220. DOI: 10.3390/s21062144. URL: [https://www.mdpi.com/1424-8220/21/6/2144](https://www.mdpi.com/1424-8220/21/6/2144).
 
-* M. Schultz, S. Reitmann und Sameer Alam. “Predictive Classification and Understanding of Weather Impact on Airport Performance through Machine Learning”. In: Transportation Research Part C: Emerging Technologies (eingereicht 2020).
+* Michael Schultz, Stefan Reitmann, Sameer Alam, "Predictive classification and understanding of weather impact on airport performance through machine learning". In: Transportation Research Part C: Emerging Technologies 131 (2021), S. 103-119, ISSN 0968-090X, DOI: [https://doi.org/10.1016/j.trc.2021.103119](https://doi.org/10.1016/j.trc.2021.103119).
 
 * M. Schultz und S. Reitmann. “Machine learning approach to predict aircraft boarding”. In: Transportation Research Part C: Emerging Technologies 98 (Jan. 2019), S. 391–408. ISSN: 0968-090X. DOI: 10.1016/j.trc.2018.09.007. URL: [http://www.sciencedirect.com/science/article/pii/S0968090X18312580](http://www.sciencedirect.com/science/article/pii/S0968090X18312580).
 
