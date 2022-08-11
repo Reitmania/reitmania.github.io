@@ -49,9 +49,9 @@ Scholarships
 ======
 
 <center>
-    <img src="../images/vita/loughborough.png" alt="lobro" height="250"/>
-    <img src="../images/vita/spbu.png" alt="spbu" height="250"/>
-    <img src="../images/vita/mit.png" alt="spbu" height="250"/>
+    <img src="../images/loughborough.png" alt="lobro" height="250"/>
+    <img src="../images/spbu.png" alt="spbu" height="250"/>
+    <img src="../images/mit.png" alt="spbu" height="250"/>
 </center>
 
 Awards
