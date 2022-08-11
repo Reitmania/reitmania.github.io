@@ -45,8 +45,10 @@ My studies led me first into the field of transport sciences, which fascinated m
   </tr>
 </table>
 
-Scholarships
+Scholarships & Awards
 ======
+
+Both in my studies and in my postgraduate career, I was given opportunities for various stays abroad, for which I am very grateful. Through the *ERASMUS* program, I visited the Loughborough University in the United Kingdom for one semester during my studies. During my doctoral studies, I was a visiting scientist at St. Petersburg State University in Russia through the *G-RISC* program. As a PostDoc, I was a visiting scientist at Massachusetts Institute of Technology (MIT) in the USA through the MISTI program.
 
 <center>
     <img src="../images/loughborough.png" alt="lobro" height="250"/>
@@ -54,8 +56,6 @@ Scholarships
     <img src="../images/mit.png" alt="spbu" height="250"/>
 </center>
 
-Awards
-======
 <table class="tg">
     <tr>
     <td class="tg-0lax">09/2022 - 10/2022</td>
