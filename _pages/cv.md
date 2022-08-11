@@ -18,7 +18,7 @@ redirect_from:
 -->
 {% include base_path %}
 
-Already in my childhood I was fascinated by computer science and video games. During my school time I took several programming courses at the [Schülerrechenzentrum Dresden](https://www.srz.tu-dresden.de/index.php?id=504), where I am now active as a course supervisor in computer science. My studies then led me first into the field of transport sciences, which fascinated me with its many interdependencies and complex networks. Due to the lower proportion of computer science in my studies, I have been studying computer science at the Fernuni Hagen as a second degree course since 2015. At the same time I was given the opportunity to work in computer science at the TU Bergakademie Freiberg after my doctoral thesis. 
+My studies led me first into the field of transport sciences, which fascinated me with its many interdependencies and complex networks. Due to the lower proportion of computer science in my studies, I have been studying computer science at the Fernuni Hagen as a second degree course since 2015. At the same time I was given the opportunity to work in computer science at the TU Bergakademie Freiberg after my doctoral thesis.
 
 <table class="tg">
   <tr>
@@ -58,6 +58,10 @@ Already in my childhood I was fascinated by computer science and video games. Du
 Scholarships & Awards
 ======
 <table class="tg">
+   <tr>
+    <td class="tg-0lax">09/2022 - 10/2022</td>
+    <td class="tg-0lax">Visiting Scientist at Massachusetts Institute of Technology (MIT)</td>
+  </tr>
     <tr>
     <td class="tg-0lax">08/2021</td>
     <td class="tg-0lax">Best Paper Award at <a href="http://cpsc.spbstu.ru/">2nd International Conference
