@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am research fellow in Bernhard Jung's group at the TU Bergakademie Freiberg, Chair of Virtual Reality & Multimedia. Currently I work on applications of machine learning in computer vision. My research focus is on machine learning, virtual agents, intelligent environments, and the generation of virtual worlds by AI.
+I am research fellow in Bernhard Jung's group at the TU Bergakademie Freiberg, Chair of Virtual Reality & Multimedia, and research group leader in the ESF project *RoboBoatAssist*. Currently I work on applications of intelligent autonomous systems, especially mobile robots and their simulation. My research focus is on machine learning, robotic simulation, and VR/AR assistance systems for telerobotics.
 
-I am always interested in new contacts for joint work in machine learning, gaming and VR / AR.
+I am always interested in new contacts for joint work in machine learning, robotics and VR / AR.
 
 Contact
 ======
