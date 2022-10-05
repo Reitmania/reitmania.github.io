@@ -22,7 +22,7 @@ author_profile: true
 
 ## Conference Proceedings:
 
-* F. Richter, S. Reitmann, B. Jung. "Integration of open geo data into virtual worlds". In: Proc. 6th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022). To appear.
+* Florian Richter, Stefan Reitmann, and Bernhard Jung. "Integration of Open Geodata into Virtual Worlds". In: the 6th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022), March 25–27, 2022, Brisbane, QLD, Australia. ACM, New York, NY, USA 5 Pages. URL: [https://doi.org/10.1145/3546607.3546609](https://doi.org/10.1145/3546607.3546609)
 
 * S. Reitmann, B. Jung. "Generating Synthetic Labeled Data of Animated Fish Swarms in 3D Worlds with Particle Systems and Virtual Sound Wave Sensors". 2nd International Conference on Cyber-Physical Systems and Control, CPS&C’2021. To appear. (**Best Paper Award**)
 
