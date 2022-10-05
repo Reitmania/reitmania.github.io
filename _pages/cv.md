@@ -10,6 +10,59 @@ redirect_from:
 
 My studies led me first into the field of transport sciences, which fascinated me with its many interdependencies and complex networks. Due to the lower proportion of computer science in my studies, I have been studying computer science at the Fernuni Hagen as a second degree course since 2015. At the same time I was given the opportunity to work in computer science at the TU Bergakademie Freiberg after my doctoral thesis. 
 
+<table width="100%;">
+<tr>
+    <td><b>TU Dresden</b></td>  
+</tr>
+<tr>
+    <td>Full Professor</td>
+    <td style="text-align:right;">Since 01/2020</td>
+</tr>
+<tr>
+    <td style="padding-top:1ex;"><b>University of T&uuml;bingen</b></td>  
+</tr>
+<tr>
+    <td>Honorary Professor</td>
+    <td style="text-align:right;">10/2017 - 08/2019</td>
+</tr>
+<tr>
+    <td style="padding-top:1ex;"><b>Bosch Center for Artificial Intelligence</b></td>  
+</tr>
+<tr>
+    <td>Department Head AI Research</td>
+    <td style="text-align:right;">07/2019 - 12/2019</td>
+</tr>
+<tr>
+    <td>Research Group Leader</td>
+    <td style="text-align:right;">09/2017 - 06/2019</td>
+</tr>
+<tr>
+    <td style="padding-top:1ex;"><b>Max Planck Institute for Informatics</b></td>
+</tr>
+<tr>
+    <td>Senior Researcher</td>
+    <td style="text-align:right;">04/2017 - 05/2019</td>
+</tr>
+<tr>
+    <td>Junior Group Leader (in Bernt Schiele's department)</td>
+    <td style="text-align:right;">09/2013 - 03/2017</td>
+</tr>
+<tr>
+    <td style="padding-top:1ex;"><b>Harvard University</b></td>
+</tr>
+<tr>
+    <td>Postdoctoral Fellow (with Hanspeter Pfister)</td>
+    <td style="text-align:right;">01/2012 - 07/2013</td>
+</tr>
+<tr>
+    <td style="padding-top:1ex;"><b>Heidelberg University</b></td>
+</tr>
+<tr>
+    <td>Research Associate (in the group of Fred Hamprecht)</td>
+    <td style="text-align:right;">06/2007 - 12/2011</td>
+</tr>
+</table>
+
 <table class="tg">
   <tr>
     <td class="tg-0lax">10/2020</td>
