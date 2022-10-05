@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-I published in several computer and traffic science related journals and participated in international conferences.
-
 ## Journals:
 
 * S. Reitmann, M. Schultz. "An Adaptive Framework for Optimization and Prediction of Air Traffic Management (Sub-)Systems with Machine Learning". In: Aerospace. 2022; 9(2):77. DOI: 10.3390/aerospace9020077. URL: [https://www.mdpi.com/2226-4310/9/2/77](https://www.mdpi.com/2226-4310/9/2/77)
