@@ -8,60 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-My studies led me first into the field of transport sciences, which fascinated me with its many interdependencies and complex networks. Due to the lower proportion of computer science in my studies, I have been studying computer science at the Fernuni Hagen as a second degree course since 2015. At the same time I was given the opportunity to work in computer science at the TU Bergakademie Freiberg after my doctoral thesis. 
-
-<table width="100%;">
-<tr>
-    <td><b>TU Dresden</b></td>  
-</tr>
-<tr>
-    <td>Full Professor</td>
-    <td style="text-align:right;">Since 01/2020</td>
-</tr>
-<tr>
-    <td style="padding-top:1ex;"><b>University of T&uuml;bingen</b></td>  
-</tr>
-<tr>
-    <td>Honorary Professor</td>
-    <td style="text-align:right;">10/2017 - 08/2019</td>
-</tr>
-<tr>
-    <td style="padding-top:1ex;"><b>Bosch Center for Artificial Intelligence</b></td>  
-</tr>
-<tr>
-    <td>Department Head AI Research</td>
-    <td style="text-align:right;">07/2019 - 12/2019</td>
-</tr>
-<tr>
-    <td>Research Group Leader</td>
-    <td style="text-align:right;">09/2017 - 06/2019</td>
-</tr>
-<tr>
-    <td style="padding-top:1ex;"><b>Max Planck Institute for Informatics</b></td>
-</tr>
-<tr>
-    <td>Senior Researcher</td>
-    <td style="text-align:right;">04/2017 - 05/2019</td>
-</tr>
-<tr>
-    <td>Junior Group Leader (in Bernt Schiele's department)</td>
-    <td style="text-align:right;">09/2013 - 03/2017</td>
-</tr>
-<tr>
-    <td style="padding-top:1ex;"><b>Harvard University</b></td>
-</tr>
-<tr>
-    <td>Postdoctoral Fellow (with Hanspeter Pfister)</td>
-    <td style="text-align:right;">01/2012 - 07/2013</td>
-</tr>
-<tr>
-    <td style="padding-top:1ex;"><b>Heidelberg University</b></td>
-</tr>
-<tr>
-    <td>Research Associate (in the group of Fred Hamprecht)</td>
-    <td style="text-align:right;">06/2007 - 12/2011</td>
-</tr>
-</table>
+My studies led me first into the field of transport sciences, which fascinated me with its many interdependencies and complex networks. Due to the lower proportion of computer science in my studies, I have been studying computer science at the Fernuni Hagen as a second degree course since 2016. At the same time I was given the opportunity to work in computer science at the TU Bergakademie Freiberg after my doctoral thesis. 
 
 <table class="tg">
   <tr>
@@ -70,7 +17,7 @@ My studies led me first into the field of transport sciences, which fascinated m
   </tr>
   <tr>
     <td class="tg-0lax">since 09/2019</td>
-    <td class="tg-0lax">Research Fellow at TU Bergakademie Freiberg, <a href="http://vr.tu-freiberg.de/">Chair of Virtual Reality &amp; Multimedia</a></td>
+    <td class="tg-0lax">Research Fellow at <b>TU Bergakademie Freiberg</b>, <a href="http://vr.tu-freiberg.de/">Chair of Virtual Reality &amp; Multimedia</a></td>
   </tr>
     <tr>
     <td class="tg-0lax">since 09/2015<br></td>
@@ -78,7 +25,7 @@ My studies led me first into the field of transport sciences, which fascinated m
   </tr>
   <tr>
     <td class="tg-0lax">09/2015 - 08/2019<br></td>
-    <td class="tg-0lax">PhD Student at German Aerospace Center (DLR) Brunswick, <a href="https://www.dlr.de/fl/">Institute of Flight Guidance</a></td>
+    <td class="tg-0lax">PhD Student at <b>German Aerospace Center (DLR)</b> Brunswick, <a href="https://www.dlr.de/fl/">Institute of Flight Guidance</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">08/2015</td>
@@ -86,7 +33,7 @@ My studies led me first into the field of transport sciences, which fascinated m
   </tr>
   <tr>
     <td class="tg-0lax">2009 - 2015<br></td>
-    <td class="tg-0lax">Studies of Traffic Engineering at TU Dresden</td>
+    <td class="tg-0lax">Studies of Traffic Engineering at <b>TU Dresden</b></td>
   </tr>
   <tr>
     <td class="tg-0lax">2007<br></td>
@@ -114,7 +61,7 @@ Both in my studies and in my postgraduate career, I was given opportunities for 
 <table class="tg">
     <tr>
     <td class="tg-0lax">09/2022 - 10/2022</td>
-    <td class="tg-0lax">Visiting Scientist at Massachusetts Institute of Technology (MIT), USA</td>
+      <td class="tg-0lax">Visiting Scientist at <b>Massachusetts Institute of Technology (MIT)</b>, USA</td>
   </tr>
   <tr>
     <td class="tg-0lax">08/2021</td>
@@ -138,11 +85,11 @@ Both in my studies and in my postgraduate career, I was given opportunities for 
   </tr>
   <tr>
     <td class="tg-0lax">10/2016 & 10/2017<br></td>
-    <td class="tg-0lax">Visiting Scientist at St. Petersburg State University (SPbU), Faculty of Mathematics &amp; Mechanics, Russia</td>
+    <td class="tg-0lax">Visiting Scientist at <b>St. Petersburg State University (SPbU)</b>, Faculty of Mathematics &amp; Mechanics, Russia</td>
   </tr>
   <tr>
     <td class="tg-0lax">09/2013 - 04/2014</td>
-    <td class="tg-0lax">ERASMUS Exchange Student at Loughborough University, UK</td>
+    <td class="tg-0lax">ERASMUS Exchange Student at <b>Loughborough University</b>, UK</td>
   </tr>
 </table>
 
