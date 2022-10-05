@@ -57,7 +57,6 @@ Both in my studies and in my postgraduate career, I was given opportunities for 
 </center>
 
 &nbsp;
-<br /> 
 
 <table class="tg">
     <tr>
