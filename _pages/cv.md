@@ -56,6 +56,9 @@ Both in my studies and in my postgraduate career, I was given opportunities for 
     <img src="../images/mit.png" alt="spbu" height="250"/>
 </center>
 
+&nbsp;
+<br /> 
+
 <table class="tg">
     <tr>
     <td class="tg-0lax">09/2022 - 10/2022</td>
@@ -90,9 +93,6 @@ Both in my studies and in my postgraduate career, I was given opportunities for 
     <td class="tg-0lax">ERASMUS Exchange Student at Loughborough University</td>
   </tr>
 </table>
-
-&nbsp;
-<br /> 
 
 Misc
 ======
