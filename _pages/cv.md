@@ -91,6 +91,8 @@ Both in my studies and in my postgraduate career, I was given opportunities for 
   </tr>
 </table>
 
+&nbsp;
+
 Misc
 ======
 
