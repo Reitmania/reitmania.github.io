@@ -62,7 +62,7 @@ Both in my studies and in my postgraduate career, I was given opportunities for 
 <table class="tg">
     <tr>
     <td class="tg-0lax">09/2022 - 10/2022</td>
-    <td class="tg-0lax">Visiting Scientist at Massachusetts Institute of Technology (MIT)</td>
+    <td class="tg-0lax">Visiting Scientist at Massachusetts Institute of Technology (MIT), USA</td>
   </tr>
   <tr>
     <td class="tg-0lax">08/2021</td>
@@ -74,7 +74,7 @@ Both in my studies and in my postgraduate career, I was given opportunities for 
   </tr>
   <tr>
     <td class="tg-0lax">11/2018<br></td>
-    <td class="tg-0lax">Visiting Scientist at TsAGI, IFAR Young Researchers Conference</td>
+    <td class="tg-0lax">Visiting Scientist at TsAGI (Moscow, Russia), IFAR Young Researchers Conference</td>
   </tr>
   <tr>
     <td class="tg-0lax">07/2018</td>
@@ -86,11 +86,11 @@ Both in my studies and in my postgraduate career, I was given opportunities for 
   </tr>
   <tr>
     <td class="tg-0lax">10/2016 & 10/2017<br></td>
-    <td class="tg-0lax">Visiting Scientist at St. Petersburg State University (SPbU), Faculty of Mathematics &amp; Mechanics</td>
+    <td class="tg-0lax">Visiting Scientist at St. Petersburg State University (SPbU), Faculty of Mathematics &amp; Mechanics, Russia</td>
   </tr>
   <tr>
     <td class="tg-0lax">09/2013 - 04/2014</td>
-    <td class="tg-0lax">ERASMUS Exchange Student at Loughborough University</td>
+    <td class="tg-0lax">ERASMUS Exchange Student at Loughborough University, UK</td>
   </tr>
 </table>
 
