@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 > Machine Learning for Spatial Understanding
+
 > Machine Learning for Time Series Prediction
+
 > Synthetic Data Generation
+
 > AI and Simulation of Mobile Robots
 
 ## Virtual sensors for synthetic data generation
