@@ -7,7 +7,13 @@ author_profile: true
 
 This is a list of my conference participations and other presentations, where I was at least involved in the corresponding proceeding.
 
+[![BCON](https://img.youtube.com/vi/lqbZdTLMyQw/0.jpg)](https://www.youtube.com/watch?v=lqbZdTLMyQw)
+
+[![AMLD](https://img.youtube.com/vi/6G_wFYpHrew/0.jpg)](https://www.youtube.com/watch?v=6G_wFYpHrew)
+
 ## Scientific Conferences:
+
+* S. Reitmann and L. Neumann. "Generating synthetic data for deep learning". In: Blencer Conference (BCON). Amsterdam, Netherlands, 2022.
 
 * S. Reitmann "An Adaptive Framework for Optimization and Prediction of Air Traffic Management (Sub-)Systems with Machine Learning ". In: Applied Machine Learning Days (AMLD). Lausanne, Schweiz, 2022 (invited talk).
 
