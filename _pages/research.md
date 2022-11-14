@@ -5,13 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-> Machine Learning for Spatial Understanding
-
-> Machine Learning for Time Series Prediction
-
-> Synthetic Data Generation
-
-> AI and Simulation of Mobile Robots
+> My research focus is on the interaction of AI, robotics and VR/AR for intelligent autonomous systems. In particular, I am interested in how a robot's AI can be trained in simulated virtual worlds and on the basis of synthetic data, e.g. by simulation of virtual sensors (LiDAR, sonar) or related to the behavior of virtual agents, e.g. in game engines (Unity, Unreal). Furthermore I investigate the opportunities of VR/AR for telerobotics and assistance systems.
 
 ## Virtual sensors for synthetic data generation
 
