@@ -22,9 +22,9 @@ author_profile: true
 
 ## Conference Proceedings:
 
-* Florian Richter, Stefan Reitmann, and Bernhard Jung. "Integration of Open Geodata into Virtual Worlds". In: the 6th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022), March 25–27, 2022, Brisbane, QLD, Australia. ACM, New York, NY, USA 5 Pages. URL: [https://doi.org/10.1145/3546607.3546609](https://doi.org/10.1145/3546607.3546609)
+* S. Reitmann, B. Jung. Generating Synthetic Labeled Data of Animated Fish Swarms in 3D Worlds with Particle Systems and Virtual Sound Wave Sensors. In: Arseniev, D.G., Aouf, N. (eds) Cyber-Physical Systems and Control II. CPS&C 2021. Lecture Notes in Networks and Systems, vol 460. Springer, Cham.  (**Best Paper Award**) URL: [https://link.springer.com/chapter/10.1007/978-3-031-20875-1_12](https://link.springer.com/chapter/10.1007/978-3-031-20875-1_12)
 
-* S. Reitmann, B. Jung. "Generating Synthetic Labeled Data of Animated Fish Swarms in 3D Worlds with Particle Systems and Virtual Sound Wave Sensors". 2nd International Conference on Cyber-Physical Systems and Control, CPS&C’2021. To appear. (**Best Paper Award**)
+* Florian Richter, Stefan Reitmann, and Bernhard Jung. "Integration of Open Geodata into Virtual Worlds". In: the 6th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022), March 25–27, 2022, Brisbane, QLD, Australia. ACM, New York, NY, USA 5 Pages. URL: [https://doi.org/10.1145/3546607.3546609](https://doi.org/10.1145/3546607.3546609)
 
 * S. Reitmann, E. V. Kudryashova, B. Jung und V. Reitmann. "Classification of Point Clouds with Neural Networks and Continuum-Type Memories". In: Artificial Intelligence Applications and Innovations - AIAI 2021. IFIP Advances in Information and Communication Technology, Band 627, Springer, 2021, S. 505-517. ISBN: 978-3-030-79150-6  DOI: 10.1007/978-3-030-79150-6_40. URL: [https://doi.org/10.1007/978-3-030-79150-6_40](https://doi.org/10.1007/978-3-030-79150-6_40)
 
