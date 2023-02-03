@@ -11,7 +11,7 @@ author_profile: true
 
 In my habilitation thesis I apply machine learning methods on complex geophysical data sets. Scientific and technical goals concern e.g. the development of AI-based prediction methods for the detection of disturbances and boundary layers. These predictions will form the basis for significantly more efficient simulations, e.g. for solving of inverse problems in the area of electromagnetic geophysics. Further work addresses e.g. automated data processing workflows to establish model-driven machine learning pipelines using heterogenous geological data repositories.
 
-You can find more information about our projects [AIRGEMM](https://tu-freiberg.de/airgemm) (*AI and Robotics for GeoEnvironmental Modeling and Monitoring*) and [RoboBoatAssist]{https://tu-freiberg.de/robo-boat-assist} on the web.
+You can find more information about our projects [AIRGEMM](https://tu-freiberg.de/airgemm) (*AI and Robotics for GeoEnvironmental Modeling and Monitoring*) and [RoboBoatAssist](https://tu-freiberg.de/robo-boat-assist) on the web.
 
 <center>
     <img src="../images/suz.png" alt="Mesh" width="250"/>
