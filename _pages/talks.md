@@ -7,7 +7,7 @@ author_profile: true
 
 This is a list of my conference participations and other presentations, where I was at least involved in the corresponding proceeding.
 
-[![MDR](https://img.youtube.com/vi/3pGZfF1cWyM/20.jpg)](https://www.youtube.com/watch?v=3pGZfF1cWyM)
+[![MDR](https://img.youtube.com/vi/3pGZfF1cWyM/0.jpg)](https://www.youtube.com/watch?v=3pGZfF1cWyM)
 
 [![BCON](https://img.youtube.com/vi/lqbZdTLMyQw/0.jpg)](https://www.youtube.com/watch?v=lqbZdTLMyQw)
 
