@@ -7,17 +7,19 @@ author_profile: true
 
 ## Journals:
 
+* S. Pose, S. Reitmann, G. J. Licht, T. Grab and T. Fieback. "AI-Prepared Autonomous Freshwater Monitoring and Sea Ground Detection by an Autonomous Surface Vehicle". In: Remote Sensing. 2023;  15(3):860. DOI: 10.3390/rs15030860. URL: [https://www.mdpi.com/2114402](https://www.mdpi.com/2114402)
+
 * S. Reitmann, M. Schultz. "An Adaptive Framework for Optimization and Prediction of Air Traffic Management (Sub-)Systems with Machine Learning". In: Aerospace. 2022; 9(2):77. DOI: 10.3390/aerospace9020077. URL: [https://www.mdpi.com/2226-4310/9/2/77](https://www.mdpi.com/2226-4310/9/2/77)
 
-* S. Reitmann, B. Jung, E. V. Kudryashova und V. Reitmann. "Observation Stability and Convergence for Neural-type Evolutionary Variational Inequalities". In: Differential Equations and Control Processes N.2 (2021). ISSN: 1817-2172. URL: [https://diffjournal.spbu.ru/pdf/21208-jdecp-reitmann.pdf](https://diffjournal.spbu.ru/pdf/21208-jdecp-reitmann.pdf)
+* S. Reitmann, B. Jung, E. V. Kudryashova and V. Reitmann. "Observation Stability and Convergence for Neural-type Evolutionary Variational Inequalities". In: Differential Equations and Control Processes N.2 (2021). ISSN: 1817-2172. URL: [https://diffjournal.spbu.ru/pdf/21208-jdecp-reitmann.pdf](https://diffjournal.spbu.ru/pdf/21208-jdecp-reitmann.pdf)
 
-* S. Reitmann, L. Neumann und B. Jung. “BLAINDER—A Blender AI Add-On for Generation of Semantically Labeled Depth-Sensing Data”. In: Sensors 21.6 (2021). ISSN: 1424-8220. DOI: 10.3390/s21062144. URL: [https://www.mdpi.com/1424-8220/21/6/2144](https://www.mdpi.com/1424-8220/21/6/2144).
+* S. Reitmann, L. Neumann and B. Jung. “BLAINDER—A Blender AI Add-On for Generation of Semantically Labeled Depth-Sensing Data”. In: Sensors 21.6 (2021). ISSN: 1424-8220. DOI: 10.3390/s21062144. URL: [https://www.mdpi.com/1424-8220/21/6/2144](https://www.mdpi.com/1424-8220/21/6/2144).
 
-* Michael Schultz, Stefan Reitmann, Sameer Alam, "Predictive classification and understanding of weather impact on airport performance through machine learning". In: Transportation Research Part C: Emerging Technologies 131 (2021), S. 103-119, ISSN 0968-090X, DOI: [https://doi.org/10.1016/j.trc.2021.103119](https://doi.org/10.1016/j.trc.2021.103119).
+* M. Schultz, S. Reitmann and S. Alam, "Predictive classification and understanding of weather impact on airport performance through machine learning". In: Transportation Research Part C: Emerging Technologies 131 (2021), S. 103-119, ISSN 0968-090X, DOI: [https://doi.org/10.1016/j.trc.2021.103119](https://doi.org/10.1016/j.trc.2021.103119).
 
-* M. Schultz und S. Reitmann. “Machine learning approach to predict aircraft boarding”. In: Transportation Research Part C: Emerging Technologies 98 (Jan. 2019), S. 391–408. ISSN: 0968-090X. DOI: 10.1016/j.trc.2018.09.007. URL: [http://www.sciencedirect.com/science/article/pii/S0968090X18312580](http://www.sciencedirect.com/science/article/pii/S0968090X18312580).
+* M. Schultz and S. Reitmann. “Machine learning approach to predict aircraft boarding”. In: Transportation Research Part C: Emerging Technologies 98 (Jan. 2019), S. 391–408. ISSN: 0968-090X. DOI: 10.1016/j.trc.2018.09.007. URL: [http://www.sciencedirect.com/science/article/pii/S0968090X18312580](http://www.sciencedirect.com/science/article/pii/S0968090X18312580).
 
-* M. Schultz und S. Reitmann. “Consideration of Passenger Interactions for the Prediction of Aircraft Boarding Time”. In: Aerospace 5.4 (Sep. 2018), S. 101. DOI: 10.3390/aerospace5040101. URL: [https://www.mdpi.com/2226-4310/5/4/101](https://www.mdpi.com/2226-4310/5/4/101]).
+* M. Schultz and S. Reitmann. “Consideration of Passenger Interactions for the Prediction of Aircraft Boarding Time”. In: Aerospace 5.4 (Sep. 2018), S. 101. DOI: 10.3390/aerospace5040101. URL: [https://www.mdpi.com/2226-4310/5/4/101](https://www.mdpi.com/2226-4310/5/4/101]).
 
 
 ## Conference Proceedings:
