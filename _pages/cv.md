@@ -12,11 +12,15 @@ My studies led me first into the field of transport sciences, which fascinated m
 
 <table class="tg">
   <tr>
+    <td class="tg-0lax">since 04/2023</td>
+    <td class="tg-0lax">Research Fellow at <b>Lund University</b>, <a href="https://rss.cs.lth.se/">Robotics and Semantic Systems</a> group</td>
+  </tr>
+  <tr>
     <td class="tg-0lax">10/2020</td>
     <td class="tg-0lax">Defense of the doctoral thesis (mark: magna cum laude) "Artificial Neural Networks in Performance Based Airport Management"</td>
   </tr>
   <tr>
-    <td class="tg-0lax">since 09/2019</td>
+    <td class="tg-0lax">09/2019 - 12/2022</td>
     <td class="tg-0lax">Research Fellow at <b>TU Bergakademie Freiberg</b>, <a href="http://vr.tu-freiberg.de/">Chair of Virtual Reality &amp; Multimedia</a></td>
   </tr>
     <tr>
