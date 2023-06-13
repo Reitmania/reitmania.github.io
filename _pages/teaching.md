@@ -8,9 +8,11 @@ author_profile: true
 > I always offer theses in the following subject areas: machine learning applications in computer vision, Unreal Engine / Unity / Blender / Godot development, VR/AR applications
  
 ## Current courses:
-* WS 2022/2023: Project Seminar **Virtual Reality**, graduate course, TU Bergakademie Freiberg, Virtual Reality & Multimedia
+* SS 2023: **Computer engineering** (Technische Informatik), undergraduate course, TU Bergakademie Freiberg, Virtual Reality & Multimedia
+* SS 2023: **Multimedia**, undergraduate course, TU Bergakademie Freiberg, Virtual Reality & Multimedia
 
 ## Past courses:
+* WS 2022/2023: Project Seminar **Virtual Reality**, graduate course, TU Bergakademie Freiberg, Virtual Reality & Multimedia
 * SS 2022: **Applied VR and AR**, graduate course, [media project GmbH](https://mediaproject.de/) / Westsächsische Hochschule Zwickau 
 * SS 2022: **Game Design & Game Engines**, undergraduate course, [HS Fresenius](https://www.hs-fresenius.de/)
 * SS 2022: **3D Computer Graphics** (practical part), graduate course, TU Bergakademie Freiberg, Virtual Reality & Multimedia
