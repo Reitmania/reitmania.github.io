@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am research fellow at Lund University in the Robotics and Semantic Systems group and PostDoc in Bastian Pfleging's group at the Freiberg University of Mining and Technology. Currently I work on applications of intelligent autonomous systems, especially mobile robots and their simulation, as well as VR/AR applications, e.g. assistance systms for telerobotics. My research focus is on applied machine learning, robotics and human-computer interaction.
+I am research fellow at Lund University in the Robotics and Semantic Systems group and PostDoc in Bastian Pfleging's group at the Freiberg University of Mining and Technology. Currently I work on applications of intelligent autonomous systems, especially mobile robots and their simulation, as well as VR/AR applications, e.g. assistance systems for telerobotics. My research focus is on applied machine learning, robotics and human-computer interaction.
 
 I am always interested in new contacts for joint work and collaborations!
 
