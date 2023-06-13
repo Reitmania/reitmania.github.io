@@ -15,6 +15,10 @@ My studies led me first into the field of transport sciences, which fascinated m
     <td class="tg-0lax">since 04/2023</td>
     <td class="tg-0lax">Research Fellow at <b>Lund University</b>, <a href="https://rss.cs.lth.se/">Robotics and Semantic Systems</a> group</td>
   </tr>
+    <tr>
+    <td class="tg-0lax">since 01/2023</td>
+    <td class="tg-0lax">Research Fellow at <b>Freiberg University of Mining & Technology</b>, <a href="https://ubisys.org">Ubiquitous Computing & Smart Systems</a> group</td>
+  </tr>
    <tr>
     <td class="tg-0lax">01/2022 - 12/2022</td>
      <td class="tg-0lax">Research Group Leader in ESF project <i>RoboBoatAssist</i> at <b>Freiberg University of Mining & Technology</b>, <a href="http://vr.tu-freiberg.de/">Chair of Virtual Reality &amp; Multimedia</a></td>
