@@ -7,9 +7,15 @@ author_profile: true
 
 This is a list of my conference participations and other presentations, where I was at least involved in the corresponding proceeding.
 
+Project presentation of *RoboBoatAssist* in the TV show "Einfach genial!" (MDR). 
+
 [![MDR](https://img.youtube.com/vi/3pGZfF1cWyM/0.jpg)](https://www.youtube.com/watch?v=3pGZfF1cWyM)
 
+Presentation of our add-on *BlAInder* at BCON 2022:
+
 [![BCON](https://img.youtube.com/vi/lqbZdTLMyQw/0.jpg)](https://www.youtube.com/watch?v=lqbZdTLMyQw)
+
+Presentation of machine learning prediction models in air traffic management on the Applied Machine Learning Days (AMLD) 2021:
 
 [![AMLD](https://img.youtube.com/vi/6G_wFYpHrew/0.jpg)](https://www.youtube.com/watch?v=6G_wFYpHrew)
 

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-07T10:24:03-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Stefan Reitmann</title><subtitle>personal description</subtitle><author><name>Stefan Reitmann</name></author><entry><title type="html">Agent-based Pandemic Simulation in Godot</title><link href="http://localhost:4000/posts/2021/06/blog-post-2/" rel="alternate" type="text/html" title="Agent-based Pandemic Simulation in Godot" /><published>2021-06-17T00:00:00-07:00</published><updated>2021-06-17T00:00:00-07:00</updated><id>http://localhost:4000/posts/2021/06/blog-post-2</id><content type="html" xml:base="http://localhost:4000/posts/2021/06/blog-post-2/">&lt;p&gt;Hey folks,&lt;/p&gt;
+
+&lt;p&gt;I’d like to share my simple pandemic / COVID-19 simulation with you. I did this for a little presentation about simulations of real-life events with game engines.&lt;/p&gt;
+
+&lt;p&gt;This simulation was inspired by &lt;a href=&quot;https://github.com/mani144/Covid19-Simulation-Godot&quot;&gt;this project&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I decided to implement a similar, but 3D agent-based simulation of pandemic scenarios in the Godot game engine. This simulation could be used for a microscopical approach to analyze COVID-19.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;green colored agent:&lt;/li&gt;
+  &lt;li&gt;red colored: infected, can infect other agents&lt;/li&gt;
+  &lt;li&gt;blue colored: cured&lt;/li&gt;
+  &lt;li&gt;black colored: dead&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;https://raw.githubusercontent.com/Reitmania/reitmania.github.io/master/images/screenshot_pandemicsim.png&quot; alt=&quot;Pandemic Sim in Godot&quot; width=&quot;800&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;One can vary the number of agents, the ratio of infections and of course the environment.&lt;/p&gt;
+
+&lt;p&gt;My idea is to add a second collision shape to each agent, which is bigger than the agent itself. So you can create some kind of a region in which the infection might have an effect (e. g. 1.5 meters). Currently, the agents infect each others due to collisions. To create some kind of entropy, the agents bounce randomly when hitting a wall or another agent.&lt;/p&gt;
+
+&lt;p&gt;You can find the project &lt;a href=&quot;https://github.com/Reitmania/pandemicsim&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Feel free to fork and adjust things!&lt;/p&gt;</content><author><name>Stefan Reitmann</name></author><category term="science" /><category term="blog" /><category term="game dev" /><category term="godot" /><summary type="html">Hey folks,</summary></entry><entry><title type="html">Blog Post number 1</title><link href="http://localhost:4000/posts/2021/05/blog-post-1/" rel="alternate" type="text/html" title="Blog Post number 1" /><published>2021-05-06T00:00:00-07:00</published><updated>2021-05-06T00:00:00-07:00</updated><id>http://localhost:4000/posts/2021/05/blog-post-1</id><content type="html" xml:base="http://localhost:4000/posts/2021/05/blog-post-1/">&lt;p&gt;Hey there!&lt;/p&gt;
+
+&lt;p&gt;I decided to add a little blog to my page. I don’t want to post regularly, but I like to share my experiences about working in the research sector, about making science with linux and open source tools, about machine learning and computer vision stuff and of course about other stuff from time to time.&lt;/p&gt;
+
+&lt;p&gt;Within the last years I gained a lot of experience about working in science. About getting a pipeline for myself in publishing, finding the right tools for scientic paper writing, finding the best journal or conference and so on. Maybe some of this stuff may help you (or you have additional advices for me - would be great!).&lt;/p&gt;
+
+&lt;p&gt;Sometimes I get very thoughtful about the common problems in science, especially about the bad contract situation for young scientists. And of course some other problems, which also link my thoughts to politics and society. I think, there will be no shortage on topics :)&lt;/p&gt;
+
+&lt;p&gt;See you soon!
+Stefan&lt;/p&gt;</content><author><name>Stefan Reitmann</name></author><category term="science" /><category term="blog" /><category term="game dev" /><summary type="html">Hey there!</summary></entry></feed>

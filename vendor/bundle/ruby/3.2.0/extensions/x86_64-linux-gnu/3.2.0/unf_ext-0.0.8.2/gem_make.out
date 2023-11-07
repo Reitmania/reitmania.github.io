@@ -1,0 +1,19 @@
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/usr/bin/ruby.ruby3.2 extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20231107-12151-qehhu3 sitelibdir\=./.gem.20231107-12151-qehhu3 clean
+
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20231107-12151-qehhu3 sitelibdir\=./.gem.20231107-12151-qehhu3
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20231107-12151-qehhu3 sitelibdir\=./.gem.20231107-12151-qehhu3 install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20231107-12151-qehhu3
+
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20231107-12151-qehhu3 sitelibdir\=./.gem.20231107-12151-qehhu3 clean

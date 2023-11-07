@@ -1,0 +1,19 @@
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby.ruby3.2 extconf.rb
+creating Makefile
+
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20231107-12151-bhjo9t sitelibdir\=./.gem.20231107-12151-bhjo9t clean
+
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20231107-12151-bhjo9t sitelibdir\=./.gem.20231107-12151-bhjo9t
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20231107-12151-bhjo9t sitelibdir\=./.gem.20231107-12151-bhjo9t install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20231107-12151-bhjo9t
+
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20231107-12151-bhjo9t sitelibdir\=./.gem.20231107-12151-bhjo9t clean

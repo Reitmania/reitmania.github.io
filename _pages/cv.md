@@ -13,7 +13,7 @@ My studies led me first into the field of transport sciences, which fascinated m
 <table class="tg">
   <tr>
     <td class="tg-0lax">since 04/2023</td>
-    <td class="tg-0lax">Research Fellow at <b>Lund University</b>, <a href="https://rss.cs.lth.se/">Robotics and Semantic Systems</a> group</td>
+    <td class="tg-0lax">Research Fellow in WASP project <i>AISA</i> at <b>Lund University</b>, <a href="https://rss.cs.lth.se/">Robotics and Semantic Systems</a> group</td>
   </tr>
     <tr>
     <td class="tg-0lax">since 01/2023</td>
@@ -29,7 +29,7 @@ My studies led me first into the field of transport sciences, which fascinated m
   </tr>
   <tr>
     <td class="tg-0lax">09/2019 - 12/2021</td>
-    <td class="tg-0lax">Research Fellow at <b>Freiberg University of Mining & Technology</b>, <a href="http://vr.tu-freiberg.de/">Chair of Virtual Reality &amp; Multimedia</a></td>
+    <td class="tg-0lax">Research Fellow in ESF project <i>AIRGEMM</i> at <b>Freiberg University of Mining & Technology</b>, <a href="http://vr.tu-freiberg.de/">Chair of Virtual Reality &amp; Multimedia</a></td>
   </tr>
     <tr>
     <td class="tg-0lax">since 09/2015<br></td>
@@ -63,9 +63,9 @@ Scholarships & Awards
 Both in my studies and in my postgraduate career, I was given opportunities for various stays abroad, for which I am very grateful. Through the *ERASMUS* program, I visited the Loughborough University in the United Kingdom for one semester during my studies. During my doctoral studies, I was a visiting scientist at St. Petersburg State University in Russia through the *G-RISC* program. As a PostDoc, I was a visiting scientist at Massachusetts Institute of Technology (MIT) in the USA through the MISTI program.
 
 <center>
-    <img src="../images/loughborough.png" alt="lobro" height="250"/>
-    <img src="../images/spbu.png" alt="spbu" height="250"/>
-    <img src="../images/mit.png" alt="spbu" height="250"/>
+    <img src="../images/loughborough.png" alt="lobro" height="150"/>
+    <img src="../images/spbu.png" alt="spbu" height="150"/>
+    <img src="../images/mit.png" alt="spbu" height="150"/>
 </center>
 
 &nbsp;
@@ -108,18 +108,7 @@ Both in my studies and in my postgraduate career, I was given opportunities for 
 Misc
 ======
 
-I am member of the following organizations / societies:
-
-* Chaos Computer Club e. V. <a href="https://www.ccc.de/" target="_blank">(Website)</a>
-* Gesellschaft für Informatik e. V. <a href="https://gi.de/" target="_blank">(Website)</a>
-
-Apart from all this, I am an enthusiastic sportsman, video games developer and try myself in FL Studio or LMMS every now and then. I am part of Bonfire Interactive, an indie startup from Aachen and Dresden in Germany, which I founded with my friend Alex.
-
-<center>
-<img src="../images/logo_bonfire.png" alt="Mesh" width="400"/>
-</center>
-
-Bonfire was officially founded in 2018, but work on our game **Pale Blue Dot** already started in 2016. Pale Blue Dot is RTS game with low poly graphics, completelly basing on an open source pipeline (e. g. Blender, Godot, Gimp). To support the development we are looking for freelancing contributors or employees which will help to make Pale Blue Dot happen. 
+I am part of Bonfire Interactive, an indie game startup from Aachen and Dresden in Germany, which I founded with my friend Alex. Bonfire was officially founded in 2018, but work on our game **Pale Blue Dot** already started in 2016. Pale Blue Dot is a RTS game with low poly graphics, completelly basing on an open source pipeline (e. g. Blender, Godot, Gimp). 
 
 The game is funded by the [nordmedia – Film- und Mediengesellschaft Niedersachsen/Bremen mbH](https://www.nordmedia.de). 
 

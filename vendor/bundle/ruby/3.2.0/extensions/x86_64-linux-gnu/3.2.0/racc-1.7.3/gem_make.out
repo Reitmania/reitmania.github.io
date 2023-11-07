@@ -1,0 +1,18 @@
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/usr/bin/ruby.ruby3.2 extconf.rb
+creating Makefile
+
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231107-12151-wscyqo sitelibdir\=./.gem.20231107-12151-wscyqo clean
+
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231107-12151-wscyqo sitelibdir\=./.gem.20231107-12151-wscyqo
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231107-12151-wscyqo sitelibdir\=./.gem.20231107-12151-wscyqo install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20231107-12151-wscyqo/racc
+
+current directory: /home/reiti/workspace/reitmania.github.io/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231107-12151-wscyqo sitelibdir\=./.gem.20231107-12151-wscyqo clean
