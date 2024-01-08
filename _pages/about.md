@@ -16,10 +16,10 @@ Contact
 
 Zittau/Görlitz University of Applied Sciences<br>
 Brückenstraße 1<br>
-02628 Görlitz<br>
+02826 Görlitz<br>
 G II, Raum A109
 
-☎ +49 3731 39 3019<br>
+☎ +49 (0)358 13744867<br>
 ✉ [Stefan.Reitmann@hszg](mailto:Stefan.Reitmann@hszg.de?subject=[GitHub]%20Source%20Han%20Sans)
 
 
