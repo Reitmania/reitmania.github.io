@@ -12,11 +12,15 @@ My studies led me first into the field of transport sciences, which fascinated m
 
 <table class="tg">
   <tr>
+    <td class="tg-0lax">since 01/2024</td>
+    <td class="tg-0lax">Professor for Human-Computer Interaction at <b>Zittau/Görlitz University of Applied Sciences</b>, <a href="https://f-ei.hszg.de/startseite">Fakultät Elektrotechnik & Informatik</a></td>
+  </tr>
+  <tr>
     <td class="tg-0lax">since 04/2023</td>
     <td class="tg-0lax">Research Fellow in WASP project <i>AISA</i> at <b>Lund University</b>, <a href="https://rss.cs.lth.se/">Robotics and Semantic Systems</a> group</td>
   </tr>
     <tr>
-    <td class="tg-0lax">since 01/2023</td>
+    <td class="tg-0lax">01/2023 - 12/2023</td>
     <td class="tg-0lax">Research Fellow at <b>Freiberg University of Mining & Technology</b>, <a href="https://ubisys.org">Ubiquitous Computing & Smart Systems</a> group</td>
   </tr>
    <tr>
