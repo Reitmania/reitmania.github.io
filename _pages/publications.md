@@ -24,6 +24,10 @@ author_profile: true
 
 ## Conference Proceedings:
 
+* S. Reitmann and B. Jung. 2024. "VR-based Assistance System for Semi-Autonomous Robotic Boats". In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’24 Companion), March 11–14, 2024, Boulder, CO, USA. ACM, New York, NY, USA, 5 pages. URL: [https://doi.org/10.1145/3610978.3640750](https://doi.org/10.1145/3610978.3640750) 
+
+* S. Reitmann, T. Mihaylova, E. A. Topp, and V. Kyrki. 2024. "Conflict Simulation for Shared Autonomy in Autonomous Driving". In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’24 Companion), March 11–14, 2024, Boulder, CO, USA. ACM, New York, NY, USA, 6 pages. URL: [https://doi.org/10.1145/3610978.3640589](https://doi.org/10.1145/3610978.3640589) 
+
 * S. Reitmann, B. Jung. Generating Synthetic Labeled Data of Animated Fish Swarms in 3D Worlds with Particle Systems and Virtual Sound Wave Sensors. In: Arseniev, D.G., Aouf, N. (eds) Cyber-Physical Systems and Control II. CPS&C 2021. Lecture Notes in Networks and Systems, vol 460. Springer, Cham.  (**Best Paper Award**) URL: [https://link.springer.com/chapter/10.1007/978-3-031-20875-1_12](https://link.springer.com/chapter/10.1007/978-3-031-20875-1_12)
 
 * Florian Richter, Stefan Reitmann, and Bernhard Jung. "Integration of Open Geodata into Virtual Worlds". In: the 6th International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022), March 25–27, 2022, Brisbane, QLD, Australia. ACM, New York, NY, USA 5 Pages. URL: [https://doi.org/10.1145/3546607.3546609](https://doi.org/10.1145/3546607.3546609)
