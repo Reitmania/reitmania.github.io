@@ -21,6 +21,8 @@ Presentation of machine learning prediction models in air traffic management on 
 
 ## Scientific Conferences:
 
+* S. Reitmann and T. Mihaylova. "WASP AISA: AI-Powered Situational Awareness for Man-Machine Interaction in Shared Autonomy". In: WASP-Aalto Workshop. Stockholm, Sweden, 2024.
+
 * S. Reitmann and L. Neumann. "Generating synthetic data for deep learning". In: Blencer Conference (BCON). Amsterdam, Netherlands, 2022.
 
 * S. Reitmann "An Adaptive Framework for Optimization and Prediction of Air Traffic Management (Sub-)Systems with Machine Learning ". In: Applied Machine Learning Days (AMLD). Lausanne, Schweiz, 2022 (invited talk).
