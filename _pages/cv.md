@@ -8,8 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-My studies led me first into the field of transport sciences, which fascinated me with its many interdependencies and complex networks. Due to the lower proportion of computer science in my studies, I have been studying computer science at the Fernuni Hagen as a second degree course since 2016. At the same time I was given the opportunity to work in computer science at the TU Bergakademie Freiberg after my doctoral thesis. 
-
 <table class="tg">
   <tr>
     <td class="tg-0lax">since 01/2024</td>
