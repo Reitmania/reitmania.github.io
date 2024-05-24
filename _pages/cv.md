@@ -110,11 +110,9 @@ Both in my studies and in my postgraduate career, I was given opportunities for 
 Misc
 ======
 
-I am part of Bonfire Interactive, an indie game startup from Aachen and Dresden in Germany, which I founded with my friend Alex. Bonfire was officially founded in 2018, but work on our game **Pale Blue Dot** already started in 2016. Pale Blue Dot is a RTS game with low poly graphics, completelly basing on an open source pipeline (e. g. Blender, Godot, Gimp). 
+I was a part of Bonfire Interactive, an indie game startup from Aachen and Dresden in Germany, which I founded with my friend Alex. Bonfire was officially founded in 2018, but work on our game **Pale Blue Dot** already started in 2016. Our game Pale Blue Dot is a RTS game with low poly graphics, completelly basing on an open source pipeline (e. g. Blender, Godot, Gimp). 
 
-The game is funded by the [nordmedia – Film- und Mediengesellschaft Niedersachsen/Bremen mbH](https://www.nordmedia.de). 
-
-For more information visit the official [homepage](https://www.bonfire-Interactive.com).
+The game was funded by the [nordmedia – Film- und Mediengesellschaft Niedersachsen/Bremen mbH](https://www.nordmedia.de). 
 
 
 
