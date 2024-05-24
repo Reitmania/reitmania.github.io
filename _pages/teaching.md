@@ -10,7 +10,7 @@ author_profile: true
 
 ## Current courses:
 * SS 2024: **VR & AR**, graduate course, Zittau/Görlitz University of Applied Sciences
-* SS 2024: **3D Computer Grahics**, graduate course, Zittau/Görlitz University of Applied Sciences
+* SS 2024: **3D Computer Graphics**, graduate course, Zittau/Görlitz University of Applied Sciences
 * SS 2024: **Multimedia**, undergraduate course, Zittau/Görlitz University of Applied Sciences
 
 ## Past courses:
