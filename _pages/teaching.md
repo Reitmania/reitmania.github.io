@@ -9,9 +9,12 @@ author_profile: true
 
 
 ## Current courses:
-* WS 2023/2024: **Computer networks**, undergraduate course, Freiberg University of Mining & Technology, Ubiquitous Computing & Smart Systems
+* SS 2024: **VR & AR**, graduate course, Zittau/Görlitz University of Applied Sciences
+* SS 2024: **3D Computer Grahics**, graduate course, Zittau/Görlitz University of Applied Sciences
+* SS 2024: **Multimedia**, undergraduate course, Zittau/Görlitz University of Applied Sciences
 
 ## Past courses:
+* WS 2023/2024: **Computer networks**, undergraduate course, Freiberg University of Mining & Technology, Ubiquitous Computing & Smart Systems
 * SS 2023: **Computer engineering** (Technische Informatik), undergraduate course, Freiberg University of Mining & Technology, Ubiquitous Computing & Smart Systems
 * SS 2023: **Multimedia**, undergraduate course, Freiberg University of Mining & Technology, Ubiquitous Computing & Smart Systems
 * WS 2022/2023: Project Seminar **Virtual Reality**, graduate course, Freiberg University of Mining & Technology, Virtual Reality & Multimedia
@@ -28,6 +31,9 @@ author_profile: true
 * WS 2019/2020: Project Seminar **Virtual Reality**, graduate course, Freiberg University of Mining & Technology, Virtual Reality & Multimedia
 * SS 2019: Traffic Flow Science (guest lecture), graduate course, TU Dresden, Institute of Logistics and Aviation
 * WS 2012/2013: Flight Guidance (practical part), graduate course, TU Dresden, Institute of Logistics and Aviation
+
+## List of supervised PhDs:
+* Situation Awareness in Teleoperation of UAVs (Rohit Prem Maben, Lund University, since 2023)
 
 ## List of supervised theses:
 * Augmented reality as a tool for planning and stakeholder management in overhead line construction (Bachelor thesis,  Freiberg University of Mining & Technology, 2023)
