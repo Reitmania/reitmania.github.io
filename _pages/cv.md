@@ -59,6 +59,14 @@ redirect_from:
   </tr>
 </table>
 
+Committees
+======
+
+* Organizer (Workshop): IEEE Intelligent Vehicles Symposium (IV 2024), Workshop SAFE-DRIVE: Data-Driven Simulations and Multi-Agent Interactions for Autonomous Vehicle Safety, [https://safeav.github.io/]{https://safeav.github.io/}. Jeju, South Korea. 2024
+* Program committee: ACM International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022). Melbourne, Australia. 2022
+* Program committee: IFIP International Conference on Artificial Intelligence Applications & Innovations (AIAI 2022). Korfu, Greece. 2022
+
+
 Scholarships & Awards
 ======
 
