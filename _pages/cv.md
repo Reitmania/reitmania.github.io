@@ -10,12 +10,12 @@ redirect_from:
 
 <table class="tg">
   <tr>
-    <td class="tg-0lax">since 01/2024</td>
-    <td class="tg-0lax">Professor for Human-Computer Interaction at <b>Zittau/Görlitz University of Applied Sciences</b>, <a href="https://f-ei.hszg.de/startseite">Fakultät Elektrotechnik & Informatik</a></td>
-  </tr>
-  <tr>
     <td class="tg-0lax">since 04/2023</td>
     <td class="tg-0lax">Research Fellow in WASP project <i>AISA</i> at <b>Lund University</b>, <a href="https://rss.cs.lth.se/">Robotics and Semantic Systems</a> group</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">01/2024 - 09/2024</td>
+    <td class="tg-0lax">Professor for Human-Computer Interaction at <b>Zittau/Görlitz University of Applied Sciences</b>, <a href="https://f-ei.hszg.de/startseite">Fakultät Elektrotechnik & Informatik</a></td>
   </tr>
     <tr>
     <td class="tg-0lax">01/2023 - 12/2023</td>
@@ -62,7 +62,7 @@ redirect_from:
 Committees
 ======
 
-* Organizer (Workshop): IEEE Intelligent Vehicles Symposium (IV 2024), Workshop SAFE-DRIVE: Data-Driven Simulations and Multi-Agent Interactions for Autonomous Vehicle Safety, [https://safeav.github.io/]{https://safeav.github.io/}. Jeju, South Korea. 2024
+* Organizer (Workshop): IEEE Intelligent Vehicles Symposium (IV 2024), Workshop SAFE-DRIVE: Data-Driven Simulations and Multi-Agent Interactions for Autonomous Vehicle Safety, [https://safeav.github.io/](https://safeav.github.io/). Jeju, South Korea. 2024
 * Program committee: ACM International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022). Melbourne, Australia. 2022
 * Program committee: IFIP International Conference on Artificial Intelligence Applications & Innovations (AIAI 2022). Korfu, Greece. 2022
 
