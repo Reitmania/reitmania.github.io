@@ -9,11 +9,11 @@ author_profile: true
 
 
 ## Current courses:
+
+## Past courses:
 * SS 2024: **VR & AR**, graduate course, Zittau/Görlitz University of Applied Sciences
 * SS 2024: **3D Computer Graphics**, graduate course, Zittau/Görlitz University of Applied Sciences
 * SS 2024: **Multimedia**, undergraduate course, Zittau/Görlitz University of Applied Sciences
-
-## Past courses:
 * WS 2023/2024: **Computer networks**, undergraduate course, Freiberg University of Mining & Technology, Ubiquitous Computing & Smart Systems
 * SS 2023: **Computer engineering** (Technische Informatik), undergraduate course, Freiberg University of Mining & Technology, Ubiquitous Computing & Smart Systems
 * SS 2023: **Multimedia**, undergraduate course, Freiberg University of Mining & Technology, Ubiquitous Computing & Smart Systems
