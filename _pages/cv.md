@@ -10,6 +10,10 @@ redirect_from:
 
 <table class="tg">
   <tr>
+    <td class="tg-0lax">since 10/2024</td>
+    <td class="tg-0lax">Assistant Professor at <b>Chemnitz University of Technology</b>, <a href="https://www.tu-chemnitz.de/informatik/pcs/index.php">Pervasive Computing Systems</a></td>
+  </tr>
+  <tr>
     <td class="tg-0lax">since 04/2023</td>
     <td class="tg-0lax">Research Fellow in WASP project <i>AISA</i> at <b>Lund University</b>, <a href="https://rss.cs.lth.se/">Robotics and Semantic Systems</a> group</td>
   </tr>
