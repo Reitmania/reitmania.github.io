@@ -66,6 +66,8 @@ redirect_from:
 Committees
 ======
 
+* Program committee: IEEE Winter Simulation Conference (WSC 2025), Track Simulation in Space, [https://meetings.informs.org/wordpress/wsc2025/](https://meetings.informs.org/wordpress/wsc2025/). Seattle, USA. 2025
+* Organizer (Workshop): IEEE Intelligent Vehicles Symposium (IV 2025), Workshop TRUST-AD1st: Workshop on Safe and Trustworthy Autonomous Driving, [https://trust-ad.github.io/](https://trust-ad.github.io/). Cluj-Napoca, Romania. 2025
 * Organizer (Workshop): IEEE Intelligent Vehicles Symposium (IV 2024), Workshop SAFE-DRIVE: Data-Driven Simulations and Multi-Agent Interactions for Autonomous Vehicle Safety, [https://safeav.github.io/](https://safeav.github.io/). Jeju, South Korea. 2024
 * Program committee: ACM International Conference on Virtual and Augmented Reality Simulations (ICVARS 2022). Melbourne, Australia. 2022
 * Program committee: IFIP International Conference on Artificial Intelligence Applications & Innovations (AIAI 2022). Korfu, Greece. 2022
