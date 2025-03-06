@@ -24,6 +24,10 @@ author_profile: true
 
 ## Conference Proceedings:
 
+* Rohith Prem Maben, Ayesha Jena, Stefan Reitmann, and Elin Anna Topp. 2025. "Framework for Assessing Situational Awareness in Beyond Visual Line of Sight UAV Operations". In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 1473–1477.
+
+* Tsvetomila Mihaylova, Stefan Reitmann, Elin A. Topp, and Ville Kyrki. 2025. "Injecting Conflict Situations in Autonomous Driving Simulation using CARLA". In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 1052–1056.
+
 * F. Heisel, L. Kulke, Z. Beek, S. Reitmann, and B. Pfleging. 2024. "Pedestrian-Robot Interaction on Sidewalks: External User Interfaces for Mobile Delivery Robots". In Proceedings of the International Conference on Mobile and Ubiquitous Multimedia (MUM '24). Association for Computing Machinery, New York, NY, USA, 365–380. [https://doi.org/10.1145/3701571.3701581](https://doi.org/10.1145/3701571.3701581)
 
 * S. Reitmann and B. Jung. 2024. "VR-based Assistance System for Semi-Autonomous Robotic Boats". In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’24 Companion), March 11–14, 2024, Boulder, CO, USA. ACM, New York, NY, USA, 5 pages. URL: [https://doi.org/10.1145/3610978.3640750](https://doi.org/10.1145/3610978.3640750) 
