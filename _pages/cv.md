@@ -87,6 +87,10 @@ Both in my studies and in my postgraduate career, I was given opportunities for 
 &nbsp;
 
 <table class="tg">
+  <tr>
+    <td class="tg-0lax">03/2025</td>
+      <td class="tg-0lax">Visiting Scientist at <b>German-Mongolian Institute for Resource and Technology (GMIT)</b>, Mongolia</td>
+  </tr>
     <tr>
     <td class="tg-0lax">09/2022 - 10/2022</td>
       <td class="tg-0lax">Visiting Scientist at <b>Massachusetts Institute of Technology (MIT)</b>, USA</td>
