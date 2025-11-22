@@ -16,6 +16,7 @@ url                      : https://reitmania.github.io # the base hostname & pro
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "reitmania.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+minimal_mistakes_skin    : "dark"
 dark_mode                : true
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
