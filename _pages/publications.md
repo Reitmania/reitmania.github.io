@@ -47,11 +47,14 @@ author_profile: true
 * S. Reitmann und K. Nachtigall. “Applying Bidirectional Long Short-Term Memories (BLSTM) to Performance Data in Air Traffic Management for System Identification.” In: ICANN (2). Hrsg. von Alessandra Lintas u. a. Bd. 10614. Lecture Notes in Computer Science. Springer, 2017, S. 528–536. ISBN: 978-3-319-68612-7. URL: [https://doi.org/10.1007/978-3-319-68612-7_60](https://doi.org/10.1007/978-3-319-68612-7_60).
 
 ## Theses:
-* S. Reitmann. “Künstliche neuronale Netze im leistungsbasierten Luftverkehrsmanagement”. Diss. TU Dresden, 2020. URL: [https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-729299](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-729299).
 
-* S. Reitmann. Entwicklung einer Methodik zur Erstellung generischer Flugpläne für Flughafencluster. 2015.
+* S. Reitmann. "Edge-AI-gestützte Erkennung von Schlafzuständen unter unsteten Umgebungsbedingungen mit ressourcenbeschränkter Hardware". Master Thesis. FernUniversität Hagen. 2026
 
-* S. Reitmann. Entwicklung eines Modells zum Vergleich von Flugprofilen unter Berücksichtigung stochastischer Störgrößen. 2014.
+* S. Reitmann. “Künstliche neuronale Netze im leistungsbasierten Luftverkehrsmanagement”. PhD Thesis. TU Dresden, 2020. URL: [https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-729299](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-729299).
+
+* S. Reitmann. "Entwicklung einer Methodik zur Erstellung generischer Flugpläne für Flughafencluster". Diploma Thesis. TU Dresden. 2015.
+
+* S. Reitmann. "Entwicklung eines Modells zum Vergleich von Flugprofilen unter Berücksichtigung stochastischer Störgrößen". 2014.
 
 
 
