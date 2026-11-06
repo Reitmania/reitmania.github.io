@@ -1,6 +1,6 @@
 +++
 date = '2025-11-21T21:23:16+01:00'
-draft = true
+draft = false
 title = 'Robotics'
 image = '/img/blainder.png'
 description = 'mobile robots; virtual sensing; virtual laser scanning; LiDAR; Sonar'

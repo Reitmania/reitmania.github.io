@@ -1,6 +1,6 @@
 +++
 date = '2026-06-30T18:36:54+02:00'
-draft = true
+draft = false
 image = 'img/beep.png'
 description = 'autonomous driving; eHMIs; robot teleoperation; VR/AR/XR; situational awareness'
 title = 'Human-Robot-Interaction'

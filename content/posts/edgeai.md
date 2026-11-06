@@ -1,6 +1,6 @@
 +++
 date = '2026-06-02T09:35:33+02:00'
-draft = true
+draft = false
 title = 'Machine Learning & Edge AI'
 image = 'img/edgeai.jpeg'
 description = 'Edge AI; embedded systems; model optimization; federated learning; IoT'
