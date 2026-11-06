@@ -1,0 +1,28 @@
+{{ define "main" }}
+<main>
+  <h3>{{ .Title }}</h3> <!-- Kategorie-Name -->
+
+  <div class="post-list container">
+    {{ range .Pages }}
+<article class="post-teaser">
+  <a href="{{ .RelPermalink }}" class="teaser-link">
+
+    <div class="post-header">
+      <h3 class="teaser-title">{{ .Title }}</h3>
+      <span class="teaser-date">{{ .Date.Format "02.01.2006" }}</span>
+    </div>
+
+    {{ with .Params.image }}
+      <img src="{{ . }}" alt="{{ $.Title }}" class="teaser-image">
+    {{ end }}
+
+  </a>
+  {{ with .Params.description }}
+    <p class="teaser-text">{{ . }}</p>
+  {{ end }}
+</article>
+<hr>
+    {{ end }}
+  </div>
+</main>
+{{ end }}

@@ -1,0 +1,45 @@
+baseURL = "https://kosmonerd.de/"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Stefan Reitmann"
+theme = "hugo-bearcub"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[params]
+	[params.author]
+		name = "Test"
+		email = "test@test.de"
+  author = "Dein Name"
+  description = "Technik, Projekte und Gedanken."
+  dateFormat = "2006-01-02"
+  hideMadeWithLine = false
+  favicon = "/img/stefan.jpg"
+  enableDarkMode = true
+  customCSS = ["css/custom.css"]
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+
+# --- Mehrsprachigkeit ---
+#[languages]
+#  [languages.de]
+#    languageName = "Deutsch"
+#    weight = 1
+#    contentDir = "content/de"
+#    title = "Mein Tech Blog"
+#  [languages.en]
+#    languageName = "English"
+#    weight = 2
+#    contentDir = "content/en"
+#    title = "My Tech Blog"

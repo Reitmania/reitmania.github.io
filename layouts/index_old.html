@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+<main class="container">
+
+Jun.-Prof. Dr. Stefan Reitmann, M. Sc. <br>
+
+Assistant Professor (non-tenure) of Pervasive Computing Systems at Chemnitz University of Technology<br>
+
+Mail: stefan.reitmann (at) informatik.tu-chemnitz.de <br>
+
+Research platforms: <a href="https://kosmonerd.de">Google Scholar</a> , <a href="https://reitmania.de">ResearchGate</a><br>
+
+<p align="center">↓ ↓ ↓ ↓ ↓</p>
+
+
+  <div class="post-list">
+    {{ range (where .Site.RegularPages "Section" "posts") }}
+<article class="post-teaser">
+  <a href="{{ .RelPermalink }}" class="teaser-link">
+    <div class="post-header">
+      <h3 class="teaser-title">{{ .Title }}</h3>
+      <span class="teaser-date">{{ .Date.Format "02.01.2006" }}</span>
+    </div>
+    {{ with .Params.image }}
+      <img src="{{ . }}" alt="{{ $.Title }}" class="teaser-image">
+    {{ end }}
+
+  </a>
+  {{ with .Params.description }}
+    <p class="teaser-text">{{ . }}</p>
+  {{ end }}
+</article>
+<hr>
+    {{ end }}
+  </div>
+</main>
+{{ end }}

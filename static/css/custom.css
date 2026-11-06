@@ -1,0 +1,257 @@
+:root {
+    --bg: #273138; 
+    --fg: #dbdbdb;
+    --yellow: #fff2d0;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.start a {
+  padding: 2px 4px;
+  color: var(--yellow);
+  border-radius: 4px;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  text-decoration: none;
+}
+
+.start a:hover {
+  background-color: var(--yellow);
+  color: black; /* Falls der Text lesbar bleiben soll */
+  text-decoration: none;
+}
+
+.start strong, b {
+  padding: 2px 4px;
+  background-color: var(--yellow);
+  color: black; /* Falls der Text lesbar bleiben soll */
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.site-title { vertical-align: middle; }
+
+.blink-cursor {
+  display: inline-block;
+  width: 0.65em;          /* Breite des Cursorblocks – anpassbar */
+  height: 1em;            /* Höhe entspricht der Textzeile */
+  background-color: currentColor; /* gleiche Farbe wie der Text */
+  margin-left: 4px;
+  transform: translateY(0.05em); /* optional: vertikal justieren */
+  animation: blink 1.5s steps(1) infinite;
+}
+
+/* Blink-Animation */
+@keyframes blink {
+  0%, 49%   { opacity: 1; }
+  50%, 100% { opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .blink-cursor {
+    animation: blink 0.7s steps(1) infinite;
+    opacity: 1;
+  }
+}
+
+.container a {
+  padding: 2px 4px;
+  color: var(--fg);
+  border-radius: 4px;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  text-decoration: none;
+}
+
+.container a:hover {
+  background-color: var(--accent, #fff2d0);
+  color: black; /* Falls der Text lesbar bleiben soll */
+  text-decoration: none;
+}
+
+hr {
+  border: none;                 /* Standard-Rahmen entfernen */
+  border-top: 1px dashed #888;  /* Dicke + Strichart + Farbe */
+  margin: 24px 0;   
+}
+
+@font-face {
+  font-family: "Commit";
+  src: url("/fonts/CommitMonoV143/CommitMono-400-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Commit";
+  src: url("/fonts/CommitMonoV143/CommitMono-700-Regular.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+    font-family: "Commit", monospace;
+    color: var(--fg); 
+    background-color: var(--bg);
+    background-image: repeating-linear-gradient(
+        45deg,
+        transparent,
+        transparent 7px,
+        rgba(255, 255, 255, 0.035) 7px,
+        rgba(255, 255, 255, 0.035) 8px
+    );
+}
+
+body, main, .container {
+  max-width: 900px; /* Adjust to your preferred width */
+}
+
+img.headerimg:hover {
+    transform: scale(1.15);
+    transition: transform 0.3s ease;
+}
+
+img.grayscale {
+  filter: grayscale(100%);
+  transition: filter 1.0s ease; /* Dauer und Timing der Fade-Animation */
+}
+
+img.grayscale:hover {
+  filter: grayscale(0%);
+}
+
+.teaser-image {
+  display: block;
+  width: 100%;
+  filter: grayscale(100%);
+  transition: filter 0.5s ease, transform 0.3s ease;
+}
+
+.teaser-link:hover .teaser-image {
+  filter: grayscale(0%);
+  /*transform: scale(1.03);*/
+}
+
+.teaser-link {
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: background-color 0.3s ease;
+    color: #fff2d0;
+}
+
+.teaser-link:hover {
+    background-color: rgba(214, 51, 132, 0.1);
+}
+
+.teaser-title {
+    margin: 8px 0 4px;
+    font-size: large;
+    padding: 4px 8px;
+    color: #fff2d0;
+    transition: color 0.3s ease;
+}
+
+.teaser-text {
+    font-size: .9rem;
+    padding: 4px 8px;
+    color: #ffffff;
+    transition: color 0.3s ease;
+    text-decoration: none !important;
+}
+
+.teaser-link:hover .teaser-title,
+.teaser-link:hover .teaser-text {
+    color: #000000 !important;
+    text-decoration: none !important;
+}
+
+
+
+/* responsive layout */
+
+@media (max-width: 768px) {
+  .post-list {
+    flex-direction: column;
+    align-items: center;
+  }
+  .post-teaser {
+    width: 90%;
+  }
+}
+
+/* categories */
+
+.category-list {
+  margin: 16px 0 32px 0;
+}
+
+.category-link {
+  display: inline-block;
+  margin-right: 12px;
+  padding: 4px 8px;
+  border-radius: 6px;
+  color: var(--fg) !important;
+  text-decoration: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.category-link:hover {
+  background-color: #fff2d0 !important;
+  color: black !important;
+}
+
+.category-list {
+    width: 100%;
+}
+
+.footer-menu {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    width: 100%;
+    gap: 5px;
+
+    border-bottom: 1px solid rgba(255, 242, 208, 0.35);
+    padding-bottom: 8px;
+}
+
+.menu-column {
+    min-width: 0;
+}
+
+.menu-column a {
+    display: block;
+    text-align: center;
+    padding: 12px 8px;
+    text-decoration: none;
+    color: #fff2d0;
+    border-radius: 6px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Hover */
+.menu-column a:hover {
+    background-color: rgba(214, 51, 132, 0.15);
+    color: #ffffff;
+}
+
+/* Aktuelle Section */
+.menu-column a.active {
+    background-color: rgba(214, 51, 132, 0.25);
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/* Smartphone */
+@media (max-width: 600px) {
+    .footer-menu {
+        grid-template-columns: 1fr;
+        gap: 5px;
+    }
+
+    .menu-column a {
+        text-align: left;
+        padding: 12px 15px;
+    }
+}

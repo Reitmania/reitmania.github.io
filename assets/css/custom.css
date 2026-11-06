@@ -1,0 +1,28 @@
+body {
+  background: #111;
+  color: #ddd;
+}
+
+a {
+  color: #a8cfff;
+}
+
+a:hover {
+  color: #960f0f;
+}
+
+header, footer {
+  background: #000;
+  color: #999;
+}
+
+code, pre {
+  background: #222;
+  color: #eee;
+}
+
+blockquote {
+  border-left: 3px solid #555;
+  color: #ccc;
+}
+

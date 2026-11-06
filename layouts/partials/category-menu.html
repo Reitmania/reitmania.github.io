@@ -1,0 +1,25 @@
+<div class="category-list">
+
+  {{ $current := .RelPermalink }}
+
+  <nav class="footer-menu">
+
+    {{ $items := slice
+      (dict "title" "Research" "url" ("/research/" | relLangURL))
+      (dict "title" "Projects" "url" ("/projects/" | relLangURL))
+      (dict "title" "Publications" "url" ("/publications/" | relLangURL))
+      (dict "title" "Teaching" "url" ("/teaching/" | relLangURL))
+      (dict "title" "Vita" "url" ("/vita/" | relLangURL))
+    }}
+
+    {{ range $items }}
+      <div class="menu-column">
+        <a href="{{ .url }}"
+           class="{{ if hasPrefix $current .url }}active{{ end }}">
+          {{ .title }}
+        </a>
+      </div>
+    {{ end }}
+
+  </nav>
+</div>

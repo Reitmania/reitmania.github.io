@@ -1,0 +1,34 @@
+<div class="blog-list">
+
+    {{ $pages := where site.RegularPages "Section" "posts" }}
+
+    {{ range $pages.ByDate.Reverse }}
+
+        <article class="post-teaser">
+
+            <a href="{{ .RelPermalink }}" class="teaser-link">
+
+                <h2 class="teaser-title">
+                    {{ .Title }}
+                </h2>
+
+                {{ with .Params.image }}
+                    <img src="{{ . | relURL }}"
+                        alt="{{ $.Page.Title }}"
+                        class="teaser-image">
+                {{ end }}
+
+                <div class="teaser-text">
+                    <p align="center">{{ .Description }}</p>
+                    
+                </div>
+
+            </a>
+
+        </article>
+
+    {{ else }}
+        <p>Keine Artikel gefunden.</p>
+    {{ end }}
+
+</div>
