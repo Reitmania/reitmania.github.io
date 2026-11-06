@@ -6,6 +6,8 @@ title = 'Publications'
 
 ## Journals:
 
+* S. Reitmann, T. Mihaylova, D. Kritharoulas, E. Peltola, E.A. Topp and V. Kyrki. "Beep and Show, Don’t Tell: Multimodal Feedback Strategies for Driver-Automation Coordination in Critical Driving Situations". In: Computers. 2026, 15, 516. [https://doi.org/10.3390/computers15080516](https://doi.org/10.3390/computers15080516)
+
 * S. Pose, S. Reitmann, G. J. Licht, T. Grab and T. Fieback. "AI-Prepared Autonomous Freshwater Monitoring and Sea Ground Detection by an Autonomous Surface Vehicle". In: Remote Sensing. 2023;  15(3):860. DOI: 10.3390/rs15030860. URL: [https://www.mdpi.com/2114402](https://www.mdpi.com/2114402)
 
 * S. Reitmann, M. Schultz. "An Adaptive Framework for Optimization and Prediction of Air Traffic Management (Sub-)Systems with Machine Learning". In: Aerospace. 2022; 9(2):77. DOI: 10.3390/aerospace9020077. URL: [https://www.mdpi.com/2226-4310/9/2/77](https://www.mdpi.com/2226-4310/9/2/77)
@@ -22,6 +24,12 @@ title = 'Publications'
 
 
 ## Conference Proceedings:
+
+* Maben, R.P. et al. (2027). Towards Intent-Aware Human-Robot Teaming: A Platform for Search-and-Rescue Operations. In: Lorig, F., Davidsson, P., Klügl, F., Camps, V., Nieves Sanchez, J.C., Kaddoum, E. (eds) Multi-Agent Systems. EUMAS 2026. Lecture Notes in Computer Science(), vol 16829. Springer, Cham. [https://doi.org/10.1007/978-3-032-39395-1_39](https://doi.org/10.1007/978-3-032-39395-1_39)
+
+* Jena, A., Reitmann, S., Topp, E.A. (2026). Impact of Gaze-Based Interaction and Augmentation on Human-Robot Collaboration in Critical Tasks. In: Staffa, M., et al. Social Robotics + AI. ICSR+AI 2025. Lecture Notes in Computer Science(), vol 16131. Springer, Singapore. [https://doi.org/10.1007/978-981-95-2379-5_52](https://doi.org/10.1007/978-981-95-2379-5_5)
+
+* T. Mihaylova, S. Reitmann, E. A. Topp and V. Kyrki, "Injecting Conflict Situations in Autonomous Driving Simulation Using CARLA," 2025 20th ACM/IEEE International Conference on Human-Robot Interaction (HRI), Melbourne, Australia, 2025, pp. 1052-1056, doi: [10.1109/HRI61500.2025.10974213](10.1109/HRI61500.2025.10974213).
 
 * Rohith Prem Maben, Ayesha Jena, Stefan Reitmann, and Elin Anna Topp. 2025. "Framework for Assessing Situational Awareness in Beyond Visual Line of Sight UAV Operations". In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (HRI '25). IEEE Press, 1473–1477.
 
