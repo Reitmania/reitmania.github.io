@@ -9,9 +9,8 @@ categories = ['PhD','Internet of äh Dings',"Math","langer langer langer Name"]
 
 ## Robotics
 
-In order to train virtual agents (especially mobile roboters and autonomous cars) in artificial worlds, I develop concepts to bring them into suitable environments and to transfer the AI trained there to the outside. For this purpose, game engine simulations are used and connected to ROS. Within my research I develop frameworks for these engines to create an interference engine for AI. Agents will be trained by reinforcement and supervised learning using synthetic training data.
+Many application domains lack sufficient annotated depth sensor data for training modern AI systems. To address this gap, we develop methods for the automated generation of synthetic 3D data in virtual environments. Using game engines and custom tools like BlAInder, we create realistic, semantically annotated point clouds for sensors such as LiDAR and Sonar - including complex environmental effects like rain, fog, or underwater physics. These virtual sensors enable scalable, controlled, and repeatable data generation for AI development in areas like robotics, autonomous driving, and geophysics.
+Using synthetic datasets, virtual LiDAR, and advanced simulation environments, we investigate how perception models can be trained and validated safely before being deployed in the real world. A key focus is bridging the sim-to-real gap, ensuring that algorithms developed in virtual spaces remain robust in dynamic, real environments. This research accelerates development cycles while reducing cost and risk.
 
 ![BlAInder](/img/rosty.png)
-
-In order to provide a sufficient virtual environment, several environmental phenomena and objects are included, e.g. fish swarms, water physics and environmental influences on sensor systems (e.g. salinity, fog).
 

@@ -9,12 +9,6 @@ categories = ['PhD']
 
 ## Machine Learning & Edge AI
 
-Scientific and technical goals in the analysis of complex geophysical data sets concern e.g. the development of AI-based prediction methods for the detection of disturbances and boundary layers. These predictions will form the basis for significantly more efficient simulations, e.g. for solving of inverse problems in the area of electromagnetic geophysics. Further work addresses e.g. automated data processing workflows to establish model-driven machine learning pipelines using heterogenous geological data repositories.
+Our machine learning research focuses on data-driven methods for analyzing complex, often high-dimensional datasets - for example, terrestrial point clouds in geophysical exploration or time-series based air traffic forecasting. We combine supervised learning, deep learning, and hybrid approaches (e.g., LSTMs with evolutionary algorithms) to model and interpret patterns, anomalies, and temporal dynamics. A key focus is the development of model-driven ML pipelines that integrate heterogeneous data sources and enable automated reasoning - including the extraction of physically grounded prediction models from neural networks.
 
-For the creation of a high variety of ground truth data for supervised learning approaches, we developed a virtual depth-sensing addon for Blender called *BlAInder*. You can find this tool [here](https://www.mdpi.com/1424-8220/21/6/2144).
-
-![BlAInder](/img/blainder.png)
-
-In my doctoral thesis I dealt with the application of neural networks (MLP, RNN/LSTM, hybrids) in time series prediction in air traffic forecasts. Besides multidimensional modeling, I was able to extract knowledge from neural networks by using genetic algorithms. 
- 
- You can find my PhD thesis [here](https://nbn-resolving.org/urn:nbn:de:bsz:14-qucosa2-729299).
+Our research also focuses on deploying ML models on resource-constrained platforms such as ESP32 microcontrollers, wearables, and mobile robots. By combining efficient model design with hardware-aware optimization and data preparation, we enable on-device inference where energy, memory, and processing power are limited. The result: autonomous systems that can make fast, reliable decisions directly at the edge, without constant reliance on remote servers.
