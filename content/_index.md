@@ -21,10 +21,8 @@ Mail: stefan.reitmann (at) informatik.tu-chemnitz.de
 
 Research platforms: [Google Scholar](https://scholar.google.com/citations?user=k_otTbcAAAAJ&hl=de), [ResearchGate](https://www.researchgate.net/profile/Stefan-Reitmann), [Linkedin](https://www.linkedin.com/in/stefan-reitmann-b1a14097/), [ORCID](http://orcid.org/0000-0003-0283-8272) <br>
 
-<p align="center">
-
 ![BlAInder](/img/logos/output/tud.png) ![BlAInder](/img/logos/output/dlr.png) ![BlAInder](/img/logos/output/tubaf.png) ![BlAInder](/img/logos/output/lund.png) ![BlAInder](/img/logos/output/tuc.png)
 
-</p>
+
 
 </div>
